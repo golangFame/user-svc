@@ -1,0 +1,8 @@
+POST {{u}}/dummy
+Content-Type: application/json
+
+{
+  "dummy": "dummy"
+}
+
+###
