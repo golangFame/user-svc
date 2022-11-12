@@ -16,10 +16,6 @@ const (
 )
 
 const (
-	MEMORY_DEBUG_PORT = "memory_debug_port"
-)
-
-const (
 	SERVER      = "server"
 	DEVELOPMENT = "development"
 )

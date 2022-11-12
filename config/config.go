@@ -25,10 +25,6 @@ var confList = map[string]argvMeta{
 		"app listen port",
 		"1604",
 	},
-	enums.MEMORY_DEBUG_PORT: {
-		"port chosen to debug using pprof",
-		"2003",
-	},
 	enums.POSTGRESQL_DB: {
 		"postgresql db name",
 		"bz_pg_dev",
