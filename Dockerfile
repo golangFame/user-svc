@@ -3,8 +3,8 @@ COPY . /opt/user-svc
 WORKDIR /opt/user-svc
 
 
-RUN go get
-RUN go build
+RUN #go get
+RUN go build -o /go/bin/user-svc ./cmd/...
 #COPY server.crt /opt/user-svc
 RUN rm -rf /opt/user-svc
 
