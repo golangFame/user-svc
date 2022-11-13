@@ -1,37 +1,37 @@
 package enums
 
 const (
-	POSTGRESQL_DB       = "postgresql_db"
-	POSTGRESQL_USER     = "postgresql_user"
-	POSTGRESQL_PASSWORD = "postgresql_password"
-	POSTGRESQL_HOST     = "postgresql_host"
-	POSTGRESQL_PORT     = "postgresql_port"
+	POSTGRESQL_DB       = "POSTGRESQL_DB"
+	POSTGRESQL_USER     = "POSTGRESQL_USER"
+	POSTGRESQL_PASSWORD = "POSTGRESQL_PASSWORD"
+	POSTGRESQL_HOST     = "POSTGRESQL_HOST"
+	POSTGRESQL_PORT     = "POSTGRESQL_PORT"
 )
 const (
-	APP_NAME = "app_name"
-	ENV      = "env"
-	MODE     = "mode"
-	PORT     = "port"
-	TIMEZONE = "timezone"
-)
-
-const (
-	SERVER      = "server"
-	DEVELOPMENT = "development"
+	APP_NAME = "APP_NAME"
+	ENV      = "ENV"
+	MODE     = "MODE"
+	PORT     = "PORT"
+	TIMEZONE = "TIMEZONE"
 )
 
 const (
-	DEV        = "dev"
-	UAT        = "uat"
-	PRODUCTION = "production"
+	SERVER      = "SERVER"
+	DEVELOPMENT = "DEVELOPMENT"
 )
 
 const (
-	REDIS_SERVER = "redis_server"
+	DEV        = "DEV"
+	UAT        = "UAT"
+	PRODUCTION = "PRODUCTION"
 )
 
 const (
-	SSH_USER     = "ssh_user"
-	SSH_PASSWORD = "ssh_password"
-	SSH_HOST     = "ssh_host"
+	REDIS_SERVER = "REDIS_SERVER"
+)
+
+const (
+	SSH_USER     = "SSH_USER"
+	SSH_PASSWORD = "SSH_PASSWORD"
+	SSH_HOST     = "SSH_HOST"
 )
