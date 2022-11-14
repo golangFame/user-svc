@@ -29,7 +29,7 @@ func (s *Service) ReadResponse(resp *http.Response, custom_type interface{}) (re
 	if err != nil {
 		return
 	}
-	utils.ConvertToStruct(res, custom_type)
+	utils.ConvertJSONToGoType(res, custom_type)
 	return
 }
 

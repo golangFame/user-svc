@@ -3,6 +3,7 @@ package utils
 import (
 	"encoding/json"
 	"fmt"
+	log "github.com/sirupsen/logrus"
 	"io/ioutil"
 	"net/http"
 )
@@ -15,6 +16,10 @@ func ReadResonse(resp *http.Response) (res json.RawMessage, err error) {
 	return
 }
 
-func ConvertToStruct(res json.RawMessage, customType interface{}) {
-	json.Unmarshal(res, customType)
+func ConvertJSONToGoType(res json.RawMessage, customType interface{}) {
+	err := json.Unmarshal(res, customType)
+
+	if err != nil {
+		log.Error("failed to unmarshall due to ", err.Error())
+	}
 }

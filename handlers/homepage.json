@@ -1,0 +1,3450 @@
+{
+  "hasBids": false,
+  "home": [
+    {
+      "name": "NOVEMBER SPECIAL",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6042798,
+          "name": "Echo Dot (4th Gen, 2020 release- Blue)",
+          "productImages": [
+            "AF_5984.jpg"
+          ],
+          "mrp": 5499,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Echo Dot (4th Gen, 2020 release) with clock-Next generation smart speaker with powerful bass, LED display \u0026 Alexa (Blue)",
+          "showMRP": true
+        },
+        {
+          "id": 6042799,
+          "name": "Echo Dot (3rd Gen, Black)",
+          "productImages": [
+            "AF_5985.jpg"
+          ],
+          "mrp": 6598,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Echo Dot (3rd Gen, Black) + Wipro 9W LED Smart Color Bulb combo - Works with Alexa - Smart Home starter kit",
+          "showMRP": true
+        },
+        {
+          "id": 6042800,
+          "name": "Fire-Boltt Neptune Smartwatch 1.69",
+          "productImages": [
+            "AF_6007.jpg"
+          ],
+          "mrp": 7999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 184,
+          "category": "smartwatches \u0026 bands",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Fire-Boltt Neptune Smartwatch 1.69\" Full Touch HD Display with 240*280 High Res, 5ATM Water Resistance.",
+          "showMRP": true
+        },
+        {
+          "id": 6042801,
+          "name": "WiFi Indoor Home Security|C6N, White",
+          "productImages": [
+            "AF_5994.jpg"
+          ],
+          "mrp": 6000,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 156,
+          "category": "Camera",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "descri ption": "WiFi Indoor Home Security|Night Vision|MicroSD Card Slot Upto 256GB|Works with Alexa \u0026 Google|C6N, White",
+          "showMRP": true
+        },
+        {
+          "id": 6042802,
+          "name": "Eureka Forbes 700 Watts Vacuum Cleaner",
+          "productImages": [
+            "AF_6013.jpg"
+          ],
+          "mrp": 6999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Eureka Forbes 700 Watts Active Clean Handheld Vacuum Cleaner|Powerful Suction \u0026 Blower|Washable HEPA Filter|Black",
+          "showMRP": true
+        },
+        {
+          "id": 6042803,
+          "name": "Mi 360° Home Security Camera",
+          "productImages": [
+            "AF_5996.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 156,
+          "category": "Camera",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "descri ption": "Mi 360° Home Security Camera 2K Pro with Bluetooth Gateway BLE 4.2, AI Human Detection",
+          "showMRP": true
+        },
+        {
+          "id": 6042804,
+          "name": "Bajaj 1701 MT 17L Solo Microwave Oven",
+          "productImages": [
+            "AF_6314.jpg"
+          ],
+          "mrp": 5290,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Bajaj 1701 MT 17L Solo Microwave Oven, White",
+          "showMRP": true
+        },
+        {
+          "id": 6042805,
+          "name": "JioFi Next Blue Smartphone",
+          "productImages": [
+            "AF_6121.jpg"
+          ],
+          "mrp": 7299,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 119,
+          "category": "Mobile Phones \u0026 Tablets",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "JioFi Next 32 GB, 2 GB RAM, Blue Smartphone",
+          "showMRP": true
+        },
+        {
+          "id": 6042806,
+          "name": "Anker 65W Fast Charger Adapter",
+          "productImages": [
+            "AF_6147.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Anker 65W 4 Port Piq 3.0 Gan Fast Charger Adapter With A 45W Usb C Port For Macbook \u0026 Laptops (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6043003,
+          "name": "Lava Z3 Pro (3GB RAM, 32GB Storage)- Blue",
+          "productImages": [
+            "AF_6126.jpg"
+          ],
+          "mrp": 8499,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 119,
+          "category": "Mobile Phones \u0026 Tablets",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Lava Z3 Pro (3GB RAM, 32GB Storage)- Blue |Octa core Processor| Big 5000 mAh Battery | 8MP AI Dual Rear Camera",
+          "showMRP": true
+        },
+        {
+          "id": 6043002,
+          "name": "IFB 25 L Solo Microwave Oven",
+          "productImages": [
+            "AF_6316.jpg"
+          ],
+          "mrp": 8990,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "IFB 25 L Solo Microwave Oven (25PM2S, Silver)",
+          "showMRP": true
+        },
+        {
+          "id": 6043001,
+          "name": "Fujifilm Instax Wide 300 Instant Camera",
+          "productImages": [
+            "AF_6335.jpg"
+          ],
+          "mrp": 8758,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 156,
+          "category": "Camera",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "descri ption": "Fujifilm Instax Wide 300 Instant Camera- White",
+          "showMRP": true
+        },
+        {
+          "id": 6043000,
+          "name": "INIU Portable Charger.",
+          "productImages": [
+            "AF_6160.jpg"
+          ],
+          "mrp": 8999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "INIU Portable Charger, 22.5W PD3.0 QC4.0 Fast Charging USB C LED Display 10000mAh Power Bank.",
+          "showMRP": true
+        },
+        {
+          "id": 6042999,
+          "name": "Crompton Amica 25L 5 Star Water Heater",
+          "productImages": [
+            "AF_6275.jpg"
+          ],
+          "mrp": 13250,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Crompton Amica 25-L 5 Star Rated Storage Water Heater (Geyser) with Free Installation and Connection Pipes (Black \u0026 White)",
+          "showMRP": true
+        },
+        {
+          "id": 6042998,
+          "name": "PRINTOMATIC Digital Instant Print Camera",
+          "productImages": [
+            "AF_6339.jpg"
+          ],
+          "mrp": 11452,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 156,
+          "category": "Camera",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "descri ption": "Kodak PRINTOMATIC Digital Instant Print Camera (Grey), Full Color Prints On Zink 2x3 Sticky-Backed Photo Paper.",
+          "showMRP": true
+        },
+        {
+          "id": 6042997,
+          "name": "Philips Vacuum Cleaner (Blue)",
+          "productImages": [
+            "AF_6011.jpg"
+          ],
+          "mrp": 9995,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Philips PowerPro FC9352/01 Compact Bagless Vacuum Cleaner (Blue)",
+          "showMRP": true
+        },
+        {
+          "id": 6042996,
+          "name": "Infinity(JBL)Sonic B200WL, 160W Soundbar",
+          "productImages": [
+            "AF_6318.jpg"
+          ],
+          "mrp": 17999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Infinity (JBL) Sonic B200WL, 160W Soundbar with Wireless Subwoofer,2.1 Channel Home Theatre with Remote,Bluetooth(Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6042995,
+          "name": "AO Smith HSE-VAS-X-025 25L Water Heater",
+          "productImages": [
+            "AF_6285.jpg"
+          ],
+          "mrp": 9500,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "AO Smith HSE-VASX-025 Storage 25 Litre Vertical Water Heater (Geyser) White 5 Star",
+          "showMRP": true
+        },
+        {
+          "id": 6042994,
+          "name": "Lenovo Tab M7 17.78 cm, Iron Grey",
+          "productImages": [
+            "AF_6179.jpg"
+          ],
+          "mrp": 9900,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 119,
+          "category": "Mobile Phones \u0026 Tablets",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Lenovo Tab M7 17.78 cm (7-inch, 1GB, 16 GB, Wi-fi+4G LTE), Iron Grey",
+          "showMRP": true
+        },
+        {
+          "id": 6043063,
+          "name": "Fujifilm Instax Mini 90 Neo Camera",
+          "productImages": [
+            "AF_6334.jpg"
+          ],
+          "mrp": 10999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 156,
+          "category": "Camera",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "descri ption": "Fujifilm Instax Mini 90 Neo Classic Instant Film Camera",
+          "showMRP": true
+        },
+        {
+          "id": 6043062,
+          "name": "Lenovo M10 FHD REL Tablet",
+          "productImages": [
+            "AF_6188.jpg"
+          ],
+          "mrp": 27500,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 119,
+          "category": "Mobile Phones \u0026 Tablets",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Lenovo M10 FHD REL Tablet (10.1-inch, 2GB, 32GB, Bluetooth, WiFi + LTE + Volte Calling), Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043061,
+          "name": "LG 190 L 4 Star Single Door Refrigerator",
+          "productImages": [
+            "AF_6311.jpg"
+          ],
+          "mrp": 22799,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "LG 190 L 4 Star Inverter Direct Cool Single Door Refrigerator (GL-D201APZY, Shiny Steel, Base Stand with Drawer)",
+          "showMRP": true
+        },
+        {
+          "id": 6043060,
+          "name": "COOLNUT 60000mAh PowerBank Mini Inverter",
+          "productImages": [
+            "AF_6157.jpg"
+          ],
+          "mrp": 26999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "COOLNUT 60000mAh Power Bank Mini Inverter/Power Backup for All Laptops, Tablets, Smart Phones, WiFi Routers",
+          "showMRP": true
+        },
+        {
+          "id": 6043059,
+          "name": "AO Smith 25L Vertical Water Heater",
+          "productImages": [
+            "AF_6277.jpg"
+          ],
+          "mrp": 16200,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "AO Smith SDS-GREEN SERIES-025 Storage 25 Litre Vertical Water Heater (Geyser) White 5 Star",
+          "showMRP": true
+        },
+        {
+          "id": 6043058,
+          "name": "30 MCGR Deluxe 30L Convection Microwave",
+          "productImages": [
+            "AF_6313.jpg"
+          ],
+          "mrp": 14895,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Morphy Richards 30 MCGR Deluxe 30L Convection Microwave Oven with Motorised Rotisserie, with Child Lock Feature, Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043057,
+          "name": "USB C Hub,11-in-1 MultiPort Adapter Dock",
+          "productImages": [
+            "AF_6144.jpg"
+          ],
+          "mrp": 10999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Belkin USB C Hub, 11-in-1 MultiPort Adapter Dock with 4K HDMI,DP,VGA,USB-C 100W PD Pass-Through Charging for MacBook Pro",
+          "showMRP": true
+        },
+        {
+          "id": 6043056,
+          "name": "Mini Shot 2Retro Wireless,Instant Camera",
+          "productImages": [
+            "AF_6336.jpg"
+          ],
+          "mrp": 19999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 156,
+          "category": "Camera",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "descri ption": "KODAK Mini Shot 2 Retro Portable Wireless Instant Camera \u0026 Photo Printer, Compatible with iOS,Android \u0026Bluetooth Devices",
+          "showMRP": true
+        },
+        {
+          "id": 6043055,
+          "name": "Mini TV Sound bar \u0026 Bluetooth Speaker",
+          "productImages": [
+            "AF_6329.jpg"
+          ],
+          "mrp": 12299,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "Majority Atlas Mini TV Sound bar and Bluetooth Speaker, Portable \u0026 USB Powered, Perfect for Gaming or Home Theatre.",
+          "showMRP": true
+        },
+        {
+          "id": 6043054,
+          "name": "realme C11 2021 (Cool Blue)",
+          "productImages": [
+            "AF_6175.jpg"
+          ],
+          "mrp": 9999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 119,
+          "category": "Mobile Phones \u0026 Tablets",
+          "bidTypeId": 70,
+          "hasUserBids": false,
+          "auctionId": 70,
+          "description": "realme C11 2021 (Cool Blue, 4GB RAM, 64GB Storage), Medium (RMX3231)",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeI D": 10
+    },
+    {
+      "name": "MOBILE BAZAAR",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6042402,
+          "name": "Vivo Y21G (Midnight Blue, 4GB, 64GB)",
+          "productImages": [
+            "MPM_52.jpg"
+          ],
+          "mrp": 17990,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 119,
+          "category": "Mobile Phones \u0026 Tablets",
+          "bidTypeId": 46,
+          "hasUserBids": false,
+          "auctionId": 46,
+          "description": "Vivo Y21G (Midnight Blue, 4GB RAM, 64GB ROM)",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 10
+    },
+    {
+      "name": "FESTIVAL EXPRESS",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 10
+    },
+    {
+      "name": "WIN FAST",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6081772,
+          "name": "Samsung 32GB micro Full HD Memory Card",
+          "productImages": [
+            "AF_4441.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Samsung EVO Plus 32GB microSDHC UHS-I U1 95MB/s Full HD Memory Card with Adapter (MBMC32GA)",
+          "showMRP": true
+        },
+        {
+          "id": 6081769,
+          "name": "SWADESI STUFF Square Watch Grey",
+          "productImages": [
+            "AF_4427.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 23,
+          "category": "Watches",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "descript ion": "SWADESI STUFF Square Multi DIAL Analog Silicon Strap ADDI Stylish Designer Analog Watch - for Boys grey",
+          "showMRP": true
+        },
+        {
+          "id": 6081766,
+          "name": "Dell WM118 Wireless Mouse, Black.",
+          "productImages": [
+            "AF_4513.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Dell WM118 Wireless Mouse, 2.4 Ghz with USB Nano Receiver, Optical Tracking, 12-Month Battery Life, Ambidextrous, Black.",
+          "showMRP": true
+        },
+        {
+          "id": 6081763,
+          "name": "TP-Link TL 300 Mbps Speed WiFi Router",
+          "productImages": [
+            "AF_4493.jpg"
+          ],
+          "mrp": 1299,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "TP-Link TLWR820N 300 Mbps Speed Wireless WiFi Router, Easy Setup, IPv6 Compatible, Supports Parent Control",
+          "showMRP": true
+        },
+        {
+          "id": 6081760,
+          "name": "Redgear A-10 Gaming Mouse with RGB LED",
+          "productImages": [
+            "AF_4449.jpg"
+          ],
+          "mrp": 699,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Redgear A-10 Wired Gaming Mouse with RGB LED, Lightweight and Durable Design, DPI Upto 2400, Compatible with Windows",
+          "showMRP": true
+        },
+        {
+          "id": 6081757,
+          "name": "Cello Plastic Bottle Set, 1L, Set of 6",
+          "productImages": [
+            "AF_4499.jpg"
+          ],
+          "mrp": 1050,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Cello H2O Unbreakable Plastic Bottle Set, 1 Litre, Set of 6, Multicolour",
+          "showMRP": true
+        },
+        {
+          "id": 6081754,
+          "name": "Ske New Solid Popular Willow Cricket Bat",
+          "productImages": [
+            "AIR_133.jpg"
+          ],
+          "mrp": 1249,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 150,
+          "category": "Sports \u0026 Fitness",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Ske New Solid Popular Willow Cricket Bat for All Tennis Balls Full Size…",
+          "showMRP": true
+        },
+        {
+          "id": 6081751,
+          "name": "SWADESI STUFF Square Watch, Brown",
+          "productImages": [
+            "AF_4431.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 23,
+          "category": "Watches",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "descript ion": "SWADESI STUFF Square Multi DIAL Analog Silicon Strap ADDI Stylish Designer Analog Watch - for Boys Brown",
+          "showMRP": true
+        },
+        {
+          "id": 6081748,
+          "name": "Redgear Gaming Mouse for PC (White)",
+          "productImages": [
+            "AF_4514.jpg"
+          ],
+          "mrp": 799,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Redgear A-15 Wired Gaming Mouse with RGB, Semi-Honeycomb Design and Upto 6400 dpi for Windows PC Gamers(White)",
+          "showMRP": true
+        },
+        {
+          "id": 6081745,
+          "name": "Pexpo Stainles Steel Wide Water Bottle ",
+          "productImages": [
+            "AF_4491.jpg"
+          ],
+          "mrp": 1197,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 36,
+          "hasUserBids": false,
+          "auctionId": 36,
+          "description": "Pexpo Stainless Steel Wide Mouth Fridge Water Bottle with 3X Durable (3 Pcs, Red, 1000 ml Each, Duro Bottle)",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 10
+    },
+    {
+      "name": "SPOT BID",
+      "layoutId": 1,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6044445,
+          "name": "Vega Men T1 Beard Trimmer",
+          "productImages": [
+            "AF_5318.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 167,
+          "category": "Beauty Appliances",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Vega Men T1 Beard Trimmer For Men With 40 Mins Run Time, Usb Charging \u0026 23 Length Settings, (Vhth-18,Black).",
+          "showMRP": true
+        },
+        {
+          "id": 6044451,
+          "name": "Instant AC Electric Air Pump,Black",
+          "productImages": [
+            "AF_3262.jpg"
+          ],
+          "mrp": 800,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 166,
+          "category": "Travel Accessories",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Inditradition Instant AC Electric Air Pump for Air Mattress, Pool Toys, - 230 Voltage, Frequency 50 Hz, Black",
+          "showMRP": true
+        },
+        {
+          "id": 6044454,
+          "name": "Men's Cricket Sports Jersey IN1500 (XL)",
+          "productImages": [
+            "FB_15.jpg"
+          ],
+          "mrp": 899,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "cat egoryId": 134,
+          "category": "Apparels",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Inkholic Men's Cricket Sports Jersey IN1500 (XL)",
+          "showMRP": true
+        },
+        {
+          "id": 6044457,
+          "name": "Travel Storage Organizer Pouch, Blue",
+          "productImages": [
+            "AF_3270.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "EAYIRA 6 Pcs Travel Storage Organizer Clothes Packing Storage Cubes Space Bags Cosmetics, Blue Flower",
+          "showMRP": true
+        },
+        {
+          "id": 6044460,
+          "name": "Divinz Tripod Stool Portable \u0026 Foldable",
+          "productImages": [
+            "AF_3260.jpg"
+          ],
+          "mrp": 749,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 166,
+          "category": "Travel Accessories",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Divinz Tripod Stool for Camping \u0026 Travelling, Portable \u0026 Foldable | 27 x 27 x 34 cm |",
+          "showMRP": true
+        },
+        {
+          "id": 6044463,
+          "name": "SYSKA Power Wheel Extension Board",
+          "productImages": [
+            "AF_5299.jpg"
+          ],
+          "mrp": 269,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 107,
+          "category": "Home Improvement",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "SYSKA Power Wheel - Extension Board, grey and white, 1500 watt, 240 V",
+          "showMRP": true
+        },
+        {
+          "id": 6044466,
+          "name": "Sun Umbrella Black Folding Umbrella",
+          "productImages": [
+            "AF_3259.jpg"
+          ],
+          "mrp": 699,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 166,
+          "category": "Travel Accessories",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Sun Umbrella Black Folding Umbrella (3 Fold 40 inches UV Protective - Joy)",
+          "showMRP": true
+        },
+        {
+          "id": 6044436,
+          "name": "Kitchen Silicone Oil Brush",
+          "productImages": [
+            "AF_2157.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "ORPIO (LABEL) Kitchen Silicone Oil Brush BBQ Chef's Basting Set (Green)",
+          "showMRP": true
+        },
+        {
+          "id": 6044439,
+          "name": "Stainless Steel Cutlery Set",
+          "productImages": [
+            "AF_2146.jpg"
+          ],
+          "mrp": 499,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 24,
+          "category": "Cooking \u0026 Dining",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Parage Lily Premium Stainless Steel Cutlery Set - Set of 25 - Silver",
+          "showMRP": true
+        },
+        {
+          "id": 6044442,
+          "name": "Tizum Earphone Carrying Case",
+          "productImages": [
+            "AF_2454.jpg"
+          ],
+          "mrp": 699,
+          "expiresAt": "2022-11-02T10:53:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 1,
+          "hasUserBids": false,
+          "auctionId": 1,
+          "description": "Tizum Earphone Carrying Case - Multi Purpose Pocket Storage Travel Organizer Case for Headphone, Pen Drives (Grey)",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 1
+    },
+    {
+      "name": "GADGET GURU",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6044185,
+          "name": "Xiaomi Wired in Ear Earphones (Black)",
+          "productImages": [
+            "AF_2718.jpg"
+          ],
+          "mrp": 599,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Xiaomi Ydjc01Jy Wired in Ear Earphones with Mic (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6044187,
+          "name": "Artis E400M in-Ear Headphones(Black)",
+          "productImages": [
+            "AF_2725.jpg"
+          ],
+          "mrp": 749,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Artis E400M in-Ear Headphones with Mic. (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6044189,
+          "name": "Zebronics S990 Speakers",
+          "productImages": [
+            "AF_2738.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Zebronics S990 Speakers",
+          "showMRP": true
+        },
+        {
+          "id": 6044191,
+          "name": "Digitek Wired Over Ear Headphones, Black",
+          "productImages": [
+            "AF_2763.jpg"
+          ],
+          "mrp": 995,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Digitek (Dhm-001) Wired Over Ear Headphones with Mic (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6044193,
+          "name": "boAt Bassheads 225 Headphone (Black)",
+          "productImages": [
+            "AF_2765.jpg"
+          ],
+          "mrp": 999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "boAt Bassheads 225 in Ear Wired Earphones with Mic(Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6044195,
+          "name": "Nova Hair Dryer",
+          "productImages": [
+            "AF_284.jpg"
+          ],
+          "mrp": 995,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "c ategoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Nova NHP 8203 -1400 Watts Hot \u0026 Cold Foldable Hair Dryer for Women (blue)",
+          "showMRP": true
+        },
+        {
+          "id": 6044196,
+          "name": "PHILIPS Hair Dryer",
+          "productImages": [
+            "AF_3410.jpg"
+          ],
+          "mrp": 845,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "PHILIPS 1000 watts Hair Dryer (HP8100/46, Purple)",
+          "showMRP": true
+        },
+        {
+          "id": 6044198,
+          "name": "Wired On Ear Headphones With Mic Black",
+          "productImages": [
+            "AF_4094.jpg"
+          ],
+          "mrp": 795,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Logitech H111 Wired On Ear Headphones With Mic Black",
+          "showMRP": true
+        },
+        {
+          "id": 6044200,
+          "name": "Syska 1000 Watts Hair Dryer - Teal",
+          "productImages": [
+            "AF_4101.jpg"
+          ],
+          "mrp": 819,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Syska HD1600 Trendsetter 1000 Watts Hair Dryer - Teal",
+          "showMRP": true
+        },
+        {
+          "id": 6044202,
+          "name": "Zinq Beast Multimedia Speaker, Black",
+          "productImages": [
+            "AF_4108.jpg"
+          ],
+          "mrp": 899,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Zinq Beast Portable Laptop/Desktop USB 2.0 Powered Multimedia Speaker with AUX Input, deep bass, LED Lights, (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6055273,
+          "name": "Zebronics Computer Speaker",
+          "productImages": [
+            "AF_2164.jpg"
+          ],
+          "mrp": 1499,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Zebronics Zeb Wonderbar 10 USB Powered 2.0 Computer Speaker with RGB Lights",
+          "showMRP": true
+        },
+        {
+          "id": 6055274,
+          "name": "Infinity (JBL) Mini Speaker",
+          "productImages": [
+            "AF_2165.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Infinity (JBL) Fuze Pint, Wireless Ultra Portable Mini Speaker (Red)",
+          "showMRP": true
+        },
+        {
+          "id": 6055275,
+          "name": "Artis Wireless Bluetooth Speaker",
+          "productImages": [
+            "AF_2308.jpg"
+          ],
+          "mrp": 1499,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Artis BT90 Wireless Portable Bluetooth Speaker with USB/Micro SD Card/FM/AUX in (Black) (3W RMS Output)",
+          "showMRP": true
+        },
+        {
+          "id": 6055276,
+          "name": "JBL Wired Earphones with Mic",
+          "productImages": [
+            "AF_2383.jpg"
+          ],
+          "mrp": 1599,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "JBL Endurance Run, Sports in Ear Wired Earphones with Mic, Sweatproof, Flexsoft eartips, Magnetic Earbuds, for Mobiles (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6055277,
+          "name": "USB Multimedia Speaker (Black)",
+          "productImages": [
+            "AF_2456.jpg"
+          ],
+          "mrp": 1200,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "elevn max 5 Watt 2.0 Channel USB Multimedia Speaker (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6055278,
+          "name": "Apple Earpods With Lightning Connector",
+          "productImages": [
+            "AF_2484.jpg"
+          ],
+          "mrp": 1900,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Apple EarPods with Lightning Connector",
+          "showMRP": true
+        },
+        {
+          "id": 6055279,
+          "name": "boAt BassHeads Wired Earphones",
+          "productImages": [
+            "AF_2623.jpg"
+          ],
+          "mrp": 1299,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "boAt BassHeads 152 in Ear Wired Earphones with Mic(White Pearl)",
+          "showMRP": true
+        },
+        {
+          "id": 6055280,
+          "name": "WeCool C1 Mobile Holder for Car",
+          "productImages": [
+            "AF_2656.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "WeCool C1 Universal Dashboard Phone Stand for Car, Extendable Arm, Strong Suction Base Mobile Stand/ Car Mount ",
+          "showMRP": true
+        },
+        {
+          "id": 6055281,
+          "name": "Amkette iGrip Windshield Car Mount",
+          "productImages": [
+            "AF_2717.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Amkette iGrip Telescopic One Touch Dashboard \u0026 Windshield Car Mount for All Mobile Phones (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6055282,
+          "name": "Heypex A0005 Bass Wireless Bluetooth",
+          "productImages": [
+            "AF_2740.jpg"
+          ],
+          "mrp": 1219,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Heypex A0005 Bass Splashproof Wireless Bluetooth Speaker with USB, Tablet \u0026 Smartphone (Assorted Colour)",
+          "showMRP": true
+        },
+        {
+          "id": 6055286,
+          "name": "iClever HS14 Wired Kids Headphones Blue",
+          "productImages": [
+            "AF_2768.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "iClever HS14 Wired Kids Headphones for Boys, Over Ear Headphones with Mic Safe Volume, Blue",
+          "showMRP": true
+        },
+        {
+          "id": 6055285,
+          "name": "Samsung EVO Plus 64GB microSD",
+          "productImages": [
+            "AF_2767.jpg"
+          ],
+          "mrp": 1899,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Samsung EVO Plus 64GB microSDXC UHS-I U1 130MB/s Full HD \u0026 4K UHD Memory Card with Adapter (MB-MC64KA), Blue",
+          "showMRP": true
+        },
+        {
+          "id": 6055284,
+          "name": "pTron Bullet Pro 36W PD Quick Charger",
+          "productImages": [
+            "AF_2766.jpg"
+          ],
+          "mrp": 1299,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "pTron Bullet Pro 36W PD Quick Charger, 3 Port Fast Car Charger Adapter - Compatible(Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6055283,
+          "name": "SmartWatch for Boys Y68 Bluetooth",
+          "productImages": [
+            "AF_2743.jpg"
+          ],
+          "mrp": 1299,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Smart Watch for Boys Y68 Bluetooth Calling Smart Touchscreen Smart Watch Bluetooth 1.44 HD Screen",
+          "showMRP": true
+        },
+        {
+          "id": 6055287,
+          "name": "I KALL IKPB10 10000 mAh Power Bank",
+          "productImages": [
+            "AF_2847.jpg"
+          ],
+          "mrp": 1199,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 155,
+          "category": "Mobile \u0026 Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "I KALL IKPB10 10000 mAh Power Bank (Lithium Polymer, Fast Chargiing) (Dual Input and Dual Output) (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6055288,
+          "name": "Mi Outdoor Bluetooth Speaker",
+          "productImages": [
+            "AF_2849.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Mi Outdoor Bluetooth Speaker (5W) with Dynamic Sound Effect, IPX5 Splash Proof \u0026 up to 20hrs of Battery Life",
+          "showMRP": true
+        },
+        {
+          "id": 6055289,
+          "name": "IKALL IK10 USB Wireless Soundbar",
+          "productImages": [
+            "AF_2850.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "IKALL IK10 10W 2.0 Channel USB Wireless Soundbar - Black",
+          "showMRP": true
+        },
+        {
+          "id": 6055292,
+          "name": "Gionee 10000mAh Power Bank Metallic Blue",
+          "productImages": [
+            "AF_3044.jpg"
+          ],
+          "mrp": 1499,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Gionee 10000 mAh Lithium 2 Output Ports Power Bank PB10K2 with 12 Watt Fast Charging, Metallic Blue",
+          "showMRP": true
+        },
+        {
+          "id": 6055293,
+          "name": "Redmi 20000mAh Power Bank (Black)",
+          "productImages": [
+            "AF_3045.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Redmi 20000mAh Li-Polymer Power Bank (Black), USB Type C and Micro USB Ports, 18W Fast Charging, Multi Device Charging",
+          "showMRP": true
+        },
+        {
+          "id": 6055294,
+          "name": "Ambrane 10000mAh Compact Power Bank, Red",
+          "productImages": [
+            "AF_3046.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Ambrane 10000 mAh Compact Power Bank with 22.5W Fast Charging, Metallic Body, Type C Cable (Powerlit Pro, Red)",
+          "showMRP": true
+        },
+        {
+          "id": 6065515,
+          "name": "boAt Stone Bluetooth Speaker 5W",
+          "productImages": [
+            "AF_2208.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "boAt Stone 190F 5 W Bluetooth Speaker (Black, Stereo Channel)",
+          "showMRP": true
+        },
+        {
+          "id": 6065521,
+          "name": "OnePlus Smart Band 13 Exercise modes",
+          "productImages": [
+            "AF_2224.jpg"
+          ],
+          "mrp": 2799,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "OnePlus Smart Band: 13 Exercise Modes ( for Android \u0026 iOS Compatible)",
+          "showMRP": true
+        },
+        {
+          "id": 6065524,
+          "name": "Noise Tune Wireless Neckband",
+          "productImages": [
+            "AF_2355.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Noise Tune Charge Bluetooth Wireless Neckband with QualcommÃ‚Â® and Bass Boost Mode, in-Ear Headphones",
+          "showMRP": true
+        },
+        {
+          "id": 6065527,
+          "name": "OnePlus Smart Band",
+          "productImages": [
+            "AF_2366.jpg"
+          ],
+          "mrp": 2799,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "OnePlus Smart Band: 13 Exercise Modes, Blood Oxygen Saturation (SpO2), Heart Rate \u0026 Sleep Tracking",
+          "showMRP": true
+        },
+        {
+          "id": 6065530,
+          "name": "JBL Go 2, Wireless Bluetooth Speaker",
+          "productImages": [
+            "AF_2373.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "JBL Go 2, Wireless Portable Bluetooth Speaker with Mic, Vibrant Color Options Waterproof \u0026 AUX (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6065533,
+          "name": "Zebronics Zeb-Sound Bomb EarbudsGreen",
+          "productImages": [
+            "AF_2581.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Zebronics ZebSound Bomb 1 TWS Earbuds, Up to 12H Playback, Splash Proof with Type C Portable Charging Case (Green)",
+          "showMRP": true
+        },
+        {
+          "id": 6065536,
+          "name": "WeCool Moonwalk M1 Earbuds",
+          "productImages": [
+            "AF_2621.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "WeCool Moonwalk M1 Earbuds (Wireless Bluetooth Earbuds), Bluetooth Earphones, Wireless Sport Fit Ear Buds Bluetooth 5.0",
+          "showMRP": true
+        },
+        {
+          "id": 6065539,
+          "name": "boAt Stone 260 4W Bluetooth, Jungle Jam",
+          "productImages": [
+            "AF_2729.jpg"
+          ],
+          "mrp": 2490,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "(Jungle Jam) boAt Stone 260 4W Bluetooth Speaker with Upto 9 Hours Playback, IPX5 and Carabiner(Jungle Jam)",
+          "showMRP": true
+        },
+        {
+          "id": 6065542,
+          "name": "Fastrack Unisex Band Activity Tracker",
+          "productImages": [
+            "AF_2751.jpg"
+          ],
+          "mrp": 2195,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fastrack Unisex Band Activity Tracker - Calorie Counter, Call and Message Notifications and up to 5 Day Battery Life",
+          "showMRP": true
+        },
+        {
+          "id": 6065545,
+          "name": "Zoook Rocker Thunder Bluetooth (Black)",
+          "productImages": [
+            "AF_2753.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Zoook Rocker Thunder 20 watts Bluetooth Party Speaker with Karaoke Mic/TF/FM/LED/USB/Party Speaker (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6065559,
+          "name": "IKALL IK20 USB Wireless Soundbar, Black",
+          "productImages": [
+            "AF_2854.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "IKALL IK20 20W 2.0 Channel USB Wireless Soundbar - Black",
+          "showMRP": true
+        },
+        {
+          "id": 6065562,
+          "name": "Ambrane 20000mAh Power Bank, Green",
+          "productImages": [
+            "AF_3047.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Ambrane 20000 mAh Power Bank with 22.5W Fast Charging, Compact Size, Triple Output, Type C Cable (Powerlit XL, Green)",
+          "showMRP": true
+        },
+        {
+          "id": 6065566,
+          "name": "MI 10000 mAh Power Bank, Black",
+          "productImages": [
+            "AF_3048.jpg"
+          ],
+          "mrp": 2699,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "MI 10000 mAh Lithium Ion, Lithium Polymer Power Bank Pocket Pro with 22.5 Watt Fast Charging, Black",
+          "showMRP": true
+        },
+        {
+          "id": 6065568,
+          "name": "Anker Usb,Wireless Charger Black",
+          "productImages": [
+            "AF_3049.jpg"
+          ],
+          "mrp": 2799,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 27,
+          "category": "Mobile Accessories",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Anker Usb,Wireless Charger,Powerwave Pad Upgraded 10W Max,7.5W For Cellular Phones Iphone 11, (No Ac Adapter,Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6065571,
+          "name": "Philips Bikini Trimmer",
+          "productImages": [
+            "AF_3448.jpg"
+          ],
+          "mrp": 2195,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 167,
+          "category": "Beauty Appliances",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Philips Essential Bikini Trimmer BRT383/15 Trim, Shave \u0026 Style",
+          "showMRP": true
+        },
+        {
+          "id": 6065574,
+          "name": "BSC 6-in-1 Sensitive Trimmer for Women",
+          "productImages": [
+            "AF_3449.jpg"
+          ],
+          "mrp": 2250,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 167,
+          "category": "Beauty Appliances",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "BSC 6-in-1 Sensitive Trimmer for Women | For eyebrows, upper lips, sideburns, underarms, bikini",
+          "showMRP": true
+        },
+        {
+          "id": 6065548,
+          "name": "boAt Bassheads 900 Wired Headphones",
+          "productImages": [
+            "AF_2770.jpg"
+          ],
+          "mrp": 2490,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "boAt Bassheads 900 Wired On Ear Headphones with Mic (Pearl White)",
+          "showMRP": true
+        },
+        {
+          "id": 6065551,
+          "name": "boAt Airdopes 121 True Wireless Earbuds",
+          "productImages": [
+            "AF_2771.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "boAt Airdopes 121v2 True Wireless Earbuds with Upto 14 Hours Playback, LED Indicators Controls(Midnight Blue)",
+          "showMRP": true
+        },
+        {
+          "id": 6065554,
+          "name": "Tagg Liberty BT Buds Pro (Black)",
+          "productImages": [
+            "AF_2852.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Tagg Liberty Buds Pro Bluetooth Truly Wireless in Ear Earbuds with Mic (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6065557,
+          "name": "TAGG Liberty BT Buds Pro (White)",
+          "productImages": [
+            "AF_2853.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "TAGG Liberty Buds Pro Bluetooth Truly Wireless in Ear Earbuds with mic Gaming Mode, Quad Mic, \u0026 Fast Charge (White)",
+          "showMRP": true
+        },
+        {
+          "id": 6072034,
+          "name": "Fire-Boltt 360 Round Smart Watch",
+          "productImages": [
+            "AF_2372.jpg"
+          ],
+          "mrp": 8999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fire-Boltt 360 SpO2 Full Touch Large Display Round Smart Watch with in-Built Games, (Black), M",
+          "showMRP": true
+        },
+        {
+          "id": 6072045,
+          "name": "Fire-Boltt Ninja Smartwatch, Rose Gold",
+          "productImages": [
+            "AF_4203.jpg"
+          ],
+          "mrp": 4999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fire-Boltt Ninja 2 SpO2 Full Touch Smartwatch with 30 Workout Modes, Heart Rate Tracking, Rose Gold",
+          "showMRP": true
+        },
+        {
+          "id": 6072042,
+          "name": "Fire-Boltt Ninja Smartwatch , Dark Green",
+          "productImages": [
+            "AF_4202.jpg"
+          ],
+          "mrp": 4999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fire-Boltt Ninja 2 SpO2 Full Touch Smartwatch with 30 Workout Modes, Heart Rate Tracking, Dark Green",
+          "showMRP": true
+        },
+        {
+          "id": 6072040,
+          "name": "Fire-Boltt Bluetooth Smartwatch (Black)",
+          "productImages": [
+            "AF_3051.jpg"
+          ],
+          "mrp": 9999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fire-Boltt Ring Bluetooth Calling with SpO2 \u0026 1.7â€ Metal Body with Blood Oxygen Monitoring, Multiple Watch Faces (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6072037,
+          "name": "boAt Xtend Smart watch",
+          "productImages": [
+            "AF_2405.jpg"
+          ],
+          "mrp": 7999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "boAt Xtend Smartwatch with Alexa Built-in, 1.69Â HD Display, Multiple Watch Faces \u0026 SpO2 Monitoring (Pitch Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6072031,
+          "name": "Fire-Boltt Smartwatch (Grey)",
+          "productImages": [
+            "AF_2230.jpg"
+          ],
+          "mrp": 4999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fire-Boltt Ninja touch to Wake SpO2 Smartwatch (Grey Strap, Regular)",
+          "showMRP": true
+        },
+        {
+          "id": 6072028,
+          "name": "FireBoltt Smartwatch (Beige)",
+          "productImages": [
+            "AF_2229.jpg"
+          ],
+          "mrp": 4999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Fire-Boltt Ninja touch to Wake SpO2 Smartwatch (Beige Strap, Regular)",
+          "showMRP": true
+        },
+        {
+          "id": 6072025,
+          "name": "FireBoltt Smartwatch-RoseGold",
+          "productImages": [
+            "AF_2172.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Full Touch Smartwatch with 20 Sports Mode, Camera \u0026 Music Control",
+          "showMRP": true
+        },
+        {
+          "id": 6072022,
+          "name": "Fire-Boltt Smartwatch (Black)",
+          "productImages": [
+            "AF_2171.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Full Touch Smartwatch with 20 Sports Mode, Camera \u0026 Music Control (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6072019,
+          "name": "Noise ColorFit Pulse",
+          "productImages": [
+            "AF_2025.jpg"
+          ],
+          "mrp": 4999,
+          "expiresAt": "2022-11-02T12:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 143,
+          "category": "Smartwatches \u0026 Bands",
+          "bidTypeId": 41,
+          "hasUserBids": false,
+          "auctionId": 41,
+          "description": "Noise ColorFit Pulse Smartwatch with 1.4\" Full Touch HD Display Deep Wine",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 10
+    },
+    {
+      "name": "SOUND STUDIO",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6043301,
+          "name": "Sony Wf-C500 Bluetooth TWS (White)",
+          "productImages": [
+            "MPM_40.jpg"
+          ],
+          "mrp": 8990,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Sony Wf-C500 Bluetooth Truly Wireless in Ear Earbuds with Mic, 20 Hrs Battery for Phone Calls, Fast Pair (White)",
+          "showMRP": true
+        },
+        {
+          "id": 6043294,
+          "name": "Sony Wireless Headset/Headphone White",
+          "productImages": [
+            "AF_3863.jpg"
+          ],
+          "mrp": 8590,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Sony PlayStation Pulse 3d Gaming Wireless Over Ear Headset/Headphone White with Mic, Dual noise-cancellation Mic",
+          "showMRP": true
+        },
+        {
+          "id": 6043295,
+          "name": "Zebronics Zeb-Blitz Headphone, White",
+          "productImages": [
+            "AF_2874.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Zebronics Zeb-Blitz USB Gaming Wired Headphones with Dolby Atmos, Simulated 7.1 Surround Sound, (White)",
+          "showMRP": true
+        },
+        {
+          "id": 6043296,
+          "name": "Vibez by Lifelong Gaming Headphones ",
+          "productImages": [
+            "AF_4719.jpg"
+          ],
+          "mrp": 7699,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Vibez by Lifelong Gaming Headphones with Mic \u0026 Extra Bass| Wired Over Ear Headphones with Noise Cancelling \u0026 LED (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6043297,
+          "name": "Bose Portable Outdoor Speaker",
+          "productImages": [
+            "AF_2381.jpg"
+          ],
+          "mrp": 8990,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Bose SoundLink Micro, Portable Outdoor Speaker, (Wireless Bluetooth Connectivity), Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043298,
+          "name": "Vibez Wireless \u0026 Wired Earphones (Black)",
+          "productImages": [
+            "AF_4706.jpg"
+          ],
+          "mrp": 5500,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Vibez by Lifelong 2- in-1 Wireless \u0026 Wired Earphones with Extra Bass, in Ear Earbuds with 10 Hrs Playtime (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6043299,
+          "name": "Crossbeats Enigma Wireless Earbuds",
+          "productImages": [
+            "AF_4730.jpg"
+          ],
+          "mrp": 9999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Crossbeats Enigma Bluetooth Truly Wireless In Ear Earbuds With Mic Anc Hybrid Noise-Cancelling (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6043300,
+          "name": "Blaupunkt Bluetooth Truly Earbuds (Blue)",
+          "productImages": [
+            "AF_4710.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Blaupunkt Btw07 ANC Moksha-30Db, Bluetooth Truly Wireless in Ear Earbuds with Mic Flip Top Rotatory Design, (Blue)",
+          "showMRP": true
+        },
+        {
+          "id": 6043302,
+          "name": "JBL Wave 200, Wireless Earbuds (Black)",
+          "productImages": [
+            "AF_2778.jpg"
+          ],
+          "mrp": 5999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "JBL Wave 200 TWS, True Wireless Earbuds with Mic, 20 Hours Playtime, JBL Deep Bass Sound, Bluetooth 5.0, Type C (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6043303,
+          "name": "Honeywell Trueno Wireless in Earbuds ",
+          "productImages": [
+            "AF_4729.jpg"
+          ],
+          "mrp": 9999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Honeywell Trueno U5000 ANC Bluetooth 5.0 Truly Wireless in Earbuds with Mic Active Noise Cancellation, High Bass (Blue)",
+          "showMRP": true
+        },
+        {
+          "id": 6043578,
+          "name": "SteelSeries DTS Headphone",
+          "productImages": [
+            "AF_2409.jpg"
+          ],
+          "mrp": 17499,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "SteelSeries Arctis 7 Lossless 2.4GHz Wireless Gaming Headset with DTS Headphone:X v2.0 Surround for PC, with Mic - Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043577,
+          "name": "Razer Gaming Wired Headphones ",
+          "productImages": [
+            "AF_2410.jpg"
+          ],
+          "mrp": 11999,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Razer Blackshark V2 X - Gaming Wired On Ear Headphones With Mic Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043576,
+          "name": "Jabra Elite Active 75t Earbuds - Navy",
+          "productImages": [
+            "MPM_119.jpg"
+          ],
+          "mrp": 16999,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": " ₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Jabra Elite Active 75t Earbuds - Active Noise Cancelling Wireless Sports Earbuds with Long Battery Life - Navy",
+          "showMRP": true
+        },
+        {
+          "id": 6043575,
+          "name": "beyerdynamic DT 990 Pro Headphone(Black)",
+          "productImages": [
+            "MPM_118.jpg"
+          ],
+          "mrp": 15489,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": " ₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "beyerdynamic DT 990 Pro Wired Over The Ear Headphone with Mic (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6043574,
+          "name": "PlayStation Platinum Wireless Headset",
+          "productImages": [
+            "AF_3902.jpg"
+          ],
+          "mrp": 16999,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "PlayStation Platinum Wireless Headset - PlayStation 4",
+          "showMRP": true
+        },
+        {
+          "id": 6043579,
+          "name": "Blaupunkt Soundbar with Subwoofer",
+          "productImages": [
+            "AF_3896.jpg"
+          ],
+          "mrp": 14990,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Blaupunkt Germany's SBW200 160 Watt 2.1 Soundbar with 8 Inch Subwoofer, HDMI-ARC, AUX, Bluetooth and Remote Control",
+          "showMRP": true
+        },
+        {
+          "id": 6043580,
+          "name": "Infinity Soundbar \u0026 Wireless Subwoofer",
+          "productImages": [
+            "AF_3905.jpg"
+          ],
+          "mrp": 17999,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Infinity (JBL) Sonic B200WL, 160W Soundbar with Wireless Subwoofer, 2.1 Channel Home Theatre with Remote, Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043581,
+          "name": "F\u0026D F5060X 135 W Multimedia Speaker",
+          "productImages": [
+            "AF_4752.jpg"
+          ],
+          "mrp": 15990,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "F\u0026D F5060X 135 Watt 5.1 Channel Wireless Bluetooth Multimedia Speaker",
+          "showMRP": true
+        },
+        {
+          "id": 6043582,
+          "name": "Sony WF-1000XM3 Earbuds, Black",
+          "productImages": [
+            "AF_4005.jpg"
+          ],
+          "mrp": 19990,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Sony WF-1000XM3 Industry Leading Active Noise Cancellation (TWS) Bluetooth Truly Wireless in Ear Earbuds, Black",
+          "showMRP": true
+        },
+        {
+          "id": 6043583,
+          "name": "Samsung Galaxy Buds Pro, Silver",
+          "productImages": [
+            "AF_2895.jpg"
+          ],
+          "mrp": 17999,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 22,
+          "category": "Audio \u0026 Speakers",
+          "bidTypeId": 34,
+          "hasUserBids": false,
+          "auctionId": 34,
+          "description": "Samsung Galaxy Buds Pro, Intelligent ANC with 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime | Silver",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 10
+    },
+    {
+      "name": "MENS DEN",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "au ctionTypeID": 10
+    },
+    {
+      "name": "VOUCHERS MELA",
+      "layoutId": 1,
+      "hasUserAccess": false,
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "a uctionTypeID": 10
+    },
+    {
+      "name": "SUPREME COLLECTION",
+      "layoutId": 5,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6081169,
+          "name": "Home Electric Vegetable Chopper, White",
+          "productImages": [
+            "AF_2985.jpg"
+          ],
+          "mrp": 1199,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Home Plus 250 Watts Electric Vegetable Chopper With Double Blade, White",
+          "showMRP": true
+        },
+        {
+          "id": 6081164,
+          "name": "AGARO Deluxe 750W Sandwich/Panini Maker",
+          "productImages": [
+            "AF_3004.jpg"
+          ],
+          "mrp": 1995,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "AGARO Deluxe 750 Watts Sandwich/Panini Maker With Non-Stick Grill Plates, 180Â° Flat Openable Plates",
+          "showMRP": true
+        },
+        {
+          "id": 6081165,
+          "name": "Pigeon Kessel Kettle 1.2L 600W (Silver)",
+          "productImages": [
+            "AF_2998.jpg"
+          ],
+          "mrp": 1775,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Pigeon Kessel Multipurpose Kettle (12173) 1.2 litres with Stainless Steel Body, 600 Watt (Silver)",
+          "showMRP": true
+        },
+        {
+          "id": 6081166,
+          "name": "De Tan Face Care Kit Set of 3",
+          "productImages": [
+            "AF_3415.jpg"
+          ],
+          "mrp": 1047,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "The Man Company De Tan Face Care Kit for Glowing \u0026 Moisturised Skin with Charcoal Face wash- Set of 3",
+          "showMRP": true
+        },
+        {
+          "id": 6081167,
+          "name": "Supercomfy Neck Pillow Rest Cushion",
+          "productImages": [
+            "AF_3285.jpg"
+          ],
+          "mrp": 1200,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": " Trajectory Supercomfy Grey Neck Pillow Rest Cushion with Velvet Eyemask and Earphone Case for Travel ",
+          "showMRP": true
+        },
+        {
+          "id": 6081168,
+          "name": "Worldwide Adapter with Dual USB Ports",
+          "productImages": [
+            "AF_3309.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 166,
+          "category": "Travel Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "OREI Worldwide Universal Adapter with Dual USB Ports (2.4A Smart Charging), International Adapter for Cell Phones \u0026 More",
+          "showMRP": true
+        },
+        {
+          "id": 6081170,
+          "name": "Portronics Keyboard, Mini Pocket Sized",
+          "productImages": [
+            "AF_3531.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Portronics Chicklet POR-973 Foldable QWERTY Keyboard, Mini Pocket Sized, Rechargeable, Bluetooth Wireless,Black",
+          "showMRP": true
+        },
+        {
+          "id": 6081171,
+          "name": "Scotch-Brite Bucket Spin Mop, 4 Pcs",
+          "productImages": [
+            "AF_2809.jpg"
+          ],
+          "mrp": 1300,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 107,
+          "category": "Home Improvement",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Scotch-Brite 2- in-1 Bucket Spin Mop (Green, 2 Refills), 4 Pcs",
+          "showMRP": true
+        },
+        {
+          "id": 6081172,
+          "name": "Hawkins Contura Pressure Cooker",
+          "productImages": [
+            "AF_2348.jpg"
+          ],
+          "mrp": 1500,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 24,
+          "category": "Cooking \u0026 Dining",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Hawkins Contura Pressure Cooker, 3 Litre, Silver (HC30)",
+          "showMRP": true
+        },
+        {
+          "id": 6081173,
+          "name": "Shri Dhan Laxmi-Kuber Bhandari Yantra",
+          "productImages": [
+            "AIR_34.jpg"
+          ],
+          "mrp": 1499,
+          "expiresAt": "2022-11-02T10:59:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "c ategoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Ankita Gemstones Shri Dhan Laxmi-Kuber Bhandari Yantra - Pack of 13",
+          "showMRP": true
+        },
+        {
+          "id": 6081183,
+          "name": "Avon Little Black Dress Eau De Parfum",
+          "productImages": [
+            "AF_3440.jpg"
+          ],
+          "mrp": 1799,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": " Avon Little Black Dress Eau De Parfum, 50ml ",
+          "showMRP": true
+        },
+        {
+          "id": 6081174,
+          "name": "Rico Japanese Electric Chopper 30W",
+          "productImages": [
+            "AF_3009.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Rico Japanese Technology Rechargeable Wireless Electric Chopper - Stainless Steel Blades, Mincing Vegetable, - 250ML 30W",
+          "showMRP": true
+        },
+        {
+          "id": 6081175,
+          "name": "LOUIS DEVIN Women's Watch",
+          "productImages": [
+            "AF_2298.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 23,
+          "category": "Watches",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "descrip tion": "LOUIS DEVIN Analogue Women's Watch(Blue Dial Silver Colored Strap)-LD-L144-BLUCH",
+          "showMRP": true
+        },
+        {
+          "id": 6081176,
+          "name": "Storite 6 Slots Metal Credit Card Holder",
+          "productImages": [
+            "AF_3523.jpg"
+          ],
+          "mrp": 1799,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Storite 6 Slots RFID Blocking Metal Credit Card Holder Wallet for Men \u0026 Women(Shiny Black,9.5 x 6.5 x 1.3 cm )",
+          "showMRP": true
+        },
+        {
+          "id": 6081177,
+          "name": "SanDisk Ultra Dual 64GB OTG Pen Drive",
+          "productImages": [
+            "AF_2539.jpg"
+          ],
+          "mrp": 1450,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "SanDisk Ultra Dual 64GB USB 3.0 OTG Pen Drive",
+          "showMRP": true
+        },
+        {
+          "id": 6081178,
+          "name": "Bryan \u0026 Candy New York SUPAWOMAN Kit",
+          "productImages": [
+            "AF_2310.jpg"
+          ],
+          "mrp": 1400,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Bryan \u0026 Candy New York SUPAWOMAN KIT Sandalwood \u0026 Wild Fig- Women's Day Gift Set (Pack of 5)",
+          "showMRP": true
+        },
+        {
+          "id": 6081179,
+          "name": "FATMUG Foldable Duffel Luggage Bag",
+          "productImages": [
+            "AF_3307.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "FATMUG Foldable Duffel Luggage Bag for Travel, Packing and Storage - Men and Women - (45 L,Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6081180,
+          "name": "Phawta Plastic Toothbrush Cover Holder",
+          "productImages": [
+            "AF_3282.jpg"
+          ],
+          "mrp": 1082,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": " Phawta Plastic Toothbrush Cover Case Holder Travel Accessories Storage Box, Razor Pen Pencil Scissor Stationary ",
+          "showMRP": true
+        },
+        {
+          "id": 6081181,
+          "name": "de Fabulous Tea Tree Oil Hair Masque",
+          "productImages": [
+            "AF_3654.jpg"
+          ],
+          "mrp": 1900,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "de Fabulous Tea Tree Oil Hair Masque, 250 ml",
+          "showMRP": true
+        },
+        {
+          "id": 6081182,
+          "name": "VAH Wooden Photo Frame",
+          "productImages": [
+            "AF_2394.jpg"
+          ],
+          "mrp": 1999,
+          "expiresAt": "2022-11-02T11:14:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 49,
+          "category": "Home Decor",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "VAH Wooden Photo Frame with LED Light - Display Picture Collage Organizer with Clips (Birds with Light)",
+          "showMRP": true
+        },
+        {
+          "id": 6089919,
+          "name": "Digital Tyre Inflator Air Pump",
+          "productImages": [
+            "AF_2403.jpg"
+          ],
+          "mrp": 2500,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 55,
+          "category": "Car Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "WINDEK 1902 Digital Tyre Inflator Portable \u0026 Easy to Operate Tire Air Pump with Auto Shut-Off \u0026 LED Light (Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6089922,
+          "name": "BLACK+DECKER Powerful Car Vacuum Cleaner",
+          "productImages": [
+            "AF_2912.jpg"
+          ],
+          "mrp": 2295,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 55,
+          "category": "Car Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "BLACK+DECKER AV1205 12V Powerful Dustbuster Car Vacuum Cleaner (Grey)",
+          "showMRP": true
+        },
+        {
+          "id": 6089925,
+          "name": "Swiss Military Grooming Kit",
+          "productImages": [
+            "AF_2286.jpg"
+          ],
+          "mrp": 2500,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Swiss Military 4 in 1 Unisex Compact Travel Grooming Kit for Beard, Eyebrow, Nose \u0026 Ear, Rechargeable (Black, Silver)",
+          "showMRP": true
+        },
+        {
+          "id": 6089929,
+          "name": "ADAMO Couple Combo Inner dials",
+          "productImages": [
+            "AF_2582.jpg"
+          ],
+          "mrp": 2695,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 23,
+          "category": "Watches",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "descrip tion": "ADAMO Couple Combo Inner dials just for Show Purpose 10-327",
+          "showMRP": true
+        },
+        {
+          "id": 6089932,
+          "name": "Dr Physio Electric Full Body Massager",
+          "productImages": [
+            "AF_3666.jpg"
+          ],
+          "mrp": 2500,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 167,
+          "category": "Beauty Appliances",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Dr Physio Electric Full Body Massager For Pain Relief of Back, Leg \u0026 Foot",
+          "showMRP": true
+        },
+        {
+          "id": 6089935,
+          "name": "CONTACTS Men's Genuine Leather Wallet",
+          "productImages": [
+            "AF_2764.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "CONTACTS Men's Genuine Leather RFID Blocking Wallet (Brown)",
+          "showMRP": true
+        },
+        {
+          "id": 6089938,
+          "name": "GoSriKi Art Silk Saree",
+          "productImages": [
+            "AF_4776.jpg"
+          ],
+          "mrp": 2599,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 134,
+          "category": "Apparels",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "descr iption": "GoSriKi Art Silk Saree",
+          "showMRP": true
+        },
+        {
+          "id": 6089941,
+          "name": "TRAWOC 55L Travel Bag",
+          "productImages": [
+            "AF_3326.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "TRAWOC 55L Travel Bag Front \u0026 Top Open Backpack for Hiking Trekking Camping, Rucksack with Rain Cover \u0026 Shoe Compartment",
+          "showMRP": true
+        },
+        {
+          "id": 6089944,
+          "name": "Kadeau 3 in 1 Handheld Humidifier Fan",
+          "productImages": [
+            "SCE_42.jpg"
+          ],
+          "mrp": 2299,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Kadeau 3 in 1 Portbale Handheld Humidifier Fan USB Mini Air Cooling Diffuser Fan Rechargeable Desktop Fan",
+          "showMRP": true
+        },
+        {
+          "id": 6089947,
+          "name": "Cutting EDGE Glass Container",
+          "productImages": [
+            "AF_2728.jpg"
+          ],
+          "mrp": 2319,
+          "expiresAt": "2022-11-02T11:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Cutting EDGE Borosilicate Glass Container with Lid Square Glass Container Microwave Safe for Kitchen, Red",
+          "showMRP": true
+        },
+        {
+          "id": 6089950,
+          "name": "HP Deskjet 1212 Colour Printer for Home",
+          "productImages": [
+            "AF_2634.jpg"
+          ],
+          "mrp": 2711,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 18,
+          "category": "Computer Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "HP Deskjet 1212 Colour Printer for Home Use, Compact Size, Through HP Smart App on Your PC Connected Through USB",
+          "showMRP": true
+        },
+        {
+          "id": 6089952,
+          "name": "AmazonBasics High Speed Table Fan White",
+          "productImages": [
+            "SCE_46.jpg"
+          ],
+          "mrp": 2600,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          " categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "AmazonBasics High Speed Table Fan for Cooling with Automatic Oscillation (400 mm, 55W, White)",
+          "showMRP": true
+        },
+        {
+          "id": 6089955,
+          "name": "De Fabulous Reviver Hair Repair Shampoo",
+          "productImages": [
+            "AF_3625.jpg"
+          ],
+          "mrp": 2610,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "De Fabulous Reviver Hair Repair Shampoo 250ml \u0026 Conditioner 250ml (Combo Of 2)",
+          "showMRP": true
+        },
+        {
+          "id": 6089960,
+          "name": "Facial Cleanser Steam breath machine",
+          "productImages": [
+            "AF_3659.jpg"
+          ],
+          "mrp": 2400,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "HealthSense Nano-Cure FS 550 Facial Iconic Cleanser with Nano-Ionic Technology, Steam breath machine for Adults",
+          "showMRP": true
+        },
+        {
+          "id": 6089978,
+          "name": "Prestige Nakshatra Pressure Cooker, 3.5L",
+          "productImages": [
+            "AF_3024.jpg"
+          ],
+          "mrp": 2730,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 33,
+          "category": "Home \u0026 Kitchen",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Prestige Nakshatra Alpha Stainless Steel Inner Lid Pressure Cooker, 3.5 Litres, Silver",
+          "showMRP": true
+        },
+        {
+          "id": 6089975,
+          "name": "WireScorts Inline Skates ",
+          "productImages": [
+            "AF_5036.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 150,
+          "category": "Sports \u0026 Fitness",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "WireScorts Inline Skates Size Adjustable All Pure PU Wheels with LED Flash Light on Wheels Design \u0026 Multi Color",
+          "showMRP": true
+        },
+        {
+          "id": 6089972,
+          "name": "GoMechanic Handheld Car Vacuum Cleaner",
+          "productImages": [
+            "AF_3578.jpg"
+          ],
+          "mrp": 2499,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 55,
+          "category": "Car Accessories",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "GoMechanic Neutron 6000 Handheld Super Suction Wet/Dry Car Vacuum Cleaner with 1 Year Warranty for All Cars",
+          "showMRP": true
+        },
+        {
+          "id": 6089969,
+          "name": "Copper 2Ltr Jug 4 Glass Set of 5",
+          "productImages": [
+            "AF_3540.jpg"
+          ],
+          "mrp": 2000,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 24,
+          "category": "Cooking \u0026 Dining",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "KSJ 100% Pure Copper 2Ltr Jug 4 Glass Combo Set of (5) *Immunity Booster*",
+          "showMRP": true
+        },
+        {
+          "id": 6089966,
+          "name": "Wildcraft 45 Ltrs Grey\u0026Orange Rucksack",
+          "productImages": [
+            "AF_3315.jpg"
+          ],
+          "mrp": 2249,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 102,
+          "category": "Bags \u0026 Wallets",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "Wildcraft 45 Ltrs Grey and Orange Rucksack (8903338073864), Large",
+          "showMRP": true
+        },
+        {
+          "id": 6089963,
+          "name": "Professional Hair Clipper trimmer",
+          "productImages": [
+            "AF_3668.jpg"
+          ],
+          "mrp": 2999,
+          "expiresAt": "2022-11-02T11:49:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 99,
+          "category": "Beauty \u0026 Personal Care",
+          "bidTypeId": 42,
+          "hasUserBids": false,
+          "auctionId": 42,
+          "description": "VGR V-123 Professional Hair Clipper with Powerful DC Motor, Stainless steel blades, 4 Guide Combs,Corded ,Black",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "au ctionTypeID": 10
+    },
+    {
+      "name": "12 HOUR BID",
+      "layoutId": 1,
+      "hasUserAccess": false,
+      "products": [
+        {
+          "id": 6042314,
+          "name": "Fully Automatic RO+ UV Water Purifier",
+          "productImages": [
+            "AF_4848.jpg"
+          ],
+          "mrp": 17999,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Fully Automatic with Active Copper RO Water Purifier, 12 L, RO + UV + UF + TDS Controller + Active Copper",
+          "showMRP": true
+        },
+        {
+          "id": 6042313,
+          "name": "Livpure Bolt Plus RO+UV Water Purifier",
+          "productImages": [
+            "AF_4847.jpg"
+          ],
+          "mrp": 17990,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Livpure Bolt Plus RO+UV+Mineraliser+Copper+High Recovery Water Purifier for Home- 7 L Storage,Grey",
+          "showMRP": true
+        },
+        {
+          "id": 6042317,
+          "name": "Godrej 7 Kg 5 Star Washing Machine",
+          "productImages": [
+            "AF_4853.jpg"
+          ],
+          "mrp": 18500,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Godrej 7 Kg 5 Star Fully-Automatic Top Loading Washing Machine (WTEON 700 AD 5.0 ROGR, Grey, Acu Wash Drum)",
+          "showMRP": true
+        },
+        {
+          "id": 6042316,
+          "name": "Haier 195 L 4 Star Refrigerator",
+          "productImages": [
+            "AF_4850.jpg"
+          ],
+          "mrp": 18400,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Haier 195 L 4 Star Direct-Cool Single-Door Refrigerator (HED- 20CFDS, Dazzle Steel)",
+          "showMRP": true
+        },
+        {
+          "id": 6042315,
+          "name": "V-Guard Rejive RO+UV+MIN Water Purifier",
+          "productImages": [
+            "AF_4849.jpg"
+          ],
+          "mrp": 18349,
+          "expiresAt": "2022-11-02T14:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "V-Guard Rejive RO+UV+MIN Water Purifier With 8 Stage Purification, Mineral Health Charger, 6.5 Liter (Blue Black)",
+          "showMRP": true
+        },
+        {
+          "id": 6042319,
+          "name": "Whirlpool 200 L 3 Star Refrigerator",
+          "productImages": [
+            "AF_4855.jpg"
+          ],
+          "mrp": 18600,
+          "expiresAt": "2022-11-02T18:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Whirlpool 200 L 3 Star Inverter Direct-Cool Single Door Refrigerator with Auto-Defrost Technology (Magnum Steel)",
+          "showMRP": true
+        },
+        {
+          "id": 6042322,
+          "name": "Samsung 230L Refrigerator, Elegant Inox",
+          "productImages": [
+            "AF_4860.jpg"
+          ],
+          "mrp": 18990,
+          "expiresAt": "2022-11-02T18:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Samsung 230 L 3 Star Inverter Single Door Refrigerator (RR24A2Y2YS8/NL, Elegant Inox)",
+          "showMRP": true
+        },
+        {
+          "id": 6042321,
+          "name": "IFB 30 L Convection Microwave Oven",
+          "productImages": [
+            "AF_4858.jpg"
+          ],
+          "mrp": 18890,
+          "expiresAt": "2022-11-02T18:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "IFB 30 L Convection Microwave Oven (30BRC2, Black, With Starter Kit)",
+          "showMRP": true
+        },
+        {
+          "id": 6042320,
+          "name": "Morphy Richards Kaffeto Coffee Maker",
+          "productImages": [
+            "AF_4857.jpg"
+          ],
+          "mrp": 18859,
+          "expiresAt": "2022-11-02T18:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Morphy Richards Kaffeto 1350 W Milk Frother and Coffee Maker",
+          "showMRP": true
+        },
+        {
+          "id": 6042318,
+          "name": "Crompton Solarium Qube IOT 25L, Geyser",
+          "productImages": [
+            "AF_4854.jpg"
+          ],
+          "mrp": 18500,
+          "expiresAt": "2022-11-02T18:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Crompton Solarium Qube IOT 25L Smart Storage Water Heater (Geyser) with Alexa Enabled Control (White)",
+          "showMRP": true
+        },
+        {
+          "id": 6042327,
+          "name": "Whirlpool 190 L 4 Star Refrigerator",
+          "productImages": [
+            "AF_4867.jpg"
+          ],
+          "mrp": 19700,
+          "expiresAt": "2022-11-02T22:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Whirlpool 190 L 4 Star Inverter Direct-Cool Single Door Refrigerator (WDE 205 ROY 4S INV, Sapphire Magnolia, Base Stand)",
+          "showMRP": true
+        },
+        {
+          "id": 6042326,
+          "name": "Whirlpool 8 Kg Washing Machine",
+          "productImages": [
+            "AF_4866.jpg"
+          ],
+          "mrp": 19700,
+          "expiresAt": "2022-11-02T22:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Whirlpool 8 Kg 5 Star Semi-Automatic Top Loading Washing Machine (ACE 8.0 TURBO DRY, Wine Dazzle)",
+          "showMRP": true
+        },
+        {
+          "id": 6042325,
+          "name": "AO Smith Z1+ normal UV Water Purifier",
+          "productImages": [
+            "AF_4865.jpg"
+          ],
+          "mrp": 19600,
+          "expiresAt": "2022-11-02T22:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "AO Smith Z1 Hot+ normal UV+ UF ( Ultra Violet+ Ultra Fine), Suitable for Municipal Water, 10L storage, Water Purifier",
+          "showMRP": true
+        },
+        {
+          "id": 6042324,
+          "name": "KENT Supreme RO+UF Water Purifier",
+          "productImages": [
+            "AF_4864.jpg"
+          ],
+          "mrp": 19500,
+          "expiresAt": "2022-11-02T22:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 50,
+          "category": "Kitchen Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "KENT Supreme RO+UF Water Purifier, Patented Mineral RO Technology, RO + UF + TDS Control + UV in Tank, 8L Storage",
+          "showMRP": true
+        },
+        {
+          "id": 6042323,
+          "name": "Godrej 6.5 Kg 5 Star Washing Machine",
+          "productImages": [
+            "AF_4862.jpg"
+          ],
+          "mrp": 19410,
+          "expiresAt": "2022-11-02T22:29:59Z",
+          "minBidPrice": 1,
+          "currency": "₹",
+          "categoryId": 16,
+          "category": "Home Appliances",
+          "bidTypeId": 3,
+          "hasUserBids": false,
+          "auctionId": 3,
+          "description": "Godrej 6.5 Kg 5 Star Fully-Automatic Top Loading Washing Machine (WTEON 650 AD 5.0 ROGR, Grey, Acu Wash Drum)",
+          "showMRP": true
+        }
+      ],
+      "imageURL": "",
+      "color": "#5D2684",
+      "showMRP": true,
+      "auctionTypeID": 10
+    }
+  ]
+}

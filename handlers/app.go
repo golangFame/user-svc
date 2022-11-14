@@ -34,9 +34,11 @@ func (h *AppHandler) HomePage(c *gin.Context) {
 		err = errors.New("invalid user")
 	}
 
-	h.appServices.HomePage()
+	h.appServices.AuctionProductsNow()
 
 	//user points
+
+	//h.appService.GetHomeLayout
 
 	c.JSON(http.StatusOK, gin.H{
 		"hasBids": false, //FIXME connect with Sammy
