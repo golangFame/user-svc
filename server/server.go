@@ -10,8 +10,6 @@ import (
 	"github.com/uptrace/bun"
 )
 
-//import gintrace "gopkg.in/DataDog/dd-trace-go.v1/contrib/gin-gonic/gin"
-
 type Server struct {
 	middlewares    *middlewares.Middleware
 	routerServices router.Services

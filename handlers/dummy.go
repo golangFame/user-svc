@@ -15,10 +15,6 @@ func (h *DummyHandler) Dummy(c *gin.Context) {
 		err error
 	)
 
-	//ctx, cancel := h.createContext()
-	//defer cancel()
-	//go h.dataDogTracer(ctx, &err)
-
 	defer h.handleResponse(c, &res, &err)
 
 	if res.StatusCode, err = Bind(c, &req); err != nil {

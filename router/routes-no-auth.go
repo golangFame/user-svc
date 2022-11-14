@@ -17,5 +17,6 @@ func (s *service) RoutesWithNoAuth(r *gin.RouterGroup, mws ...Middleware) {
 
 	appRouter := r.Group("/app")
 	appRouter.GET("/", s.appHandler.Home)
+	appRouter.GET("/home_page/:userID", s.appHandler.HomePage)
 
 }
