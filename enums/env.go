@@ -11,14 +11,15 @@ const (
 const (
 	APP_NAME = "APP_NAME"
 	ENV      = "ENV"
-	MODE     = "MODE"
 	PORT     = "PORT"
 	TIMEZONE = "TIMEZONE"
 )
 
 const (
-	SERVER      = "SERVER"
-	DEVELOPMENT = "DEVELOPMENT"
+	MODE = "MODE"
+
+	SERVER      = "server"
+	DEVELOPMENT = "development"
 )
 
 const (

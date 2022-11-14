@@ -11,10 +11,10 @@ import (
 func (h *AppHandler) Home(c *gin.Context) {
 	var (
 		res = entities.GenericResponse{}
-		err error
+		//err error
 	)
 
-	defer h.handleResponse(c, &res, &err)
+	//defer h.handleResponse(c, &res, &err)
 
 	res.Success = true
 	res.Message = "Home service is up and running"
@@ -34,7 +34,7 @@ func (h *AppHandler) HomePage(c *gin.Context) {
 		err = errors.New("invalid user")
 	}
 
-	h.appServices.AuctionProductsNow()
+	auctions := h.appServices.AuctionProductsNow()
 
 	//user points
 
@@ -42,7 +42,7 @@ func (h *AppHandler) HomePage(c *gin.Context) {
 
 	c.JSON(http.StatusOK, gin.H{
 		"hasBids": false, //FIXME connect with Sammy
-
+		"home":    auctions,
 	})
 
 }

@@ -24,14 +24,19 @@ type Out struct {
 }
 
 func New(i In) (o Out) {
+
+	logger := logrus.Logger{
+		Out:       os.Stderr,
+		Formatter: new(logrus.TextFormatter),
+		Hooks:     make(logrus.LevelHooks),
+		Level:     logrus.DebugLevel,
+	}
+
+	logger.SetReportCaller(true)
+
 	o = Out{
 		Service: &Service{
-			logrus.Logger{
-				Out:       os.Stderr,
-				Formatter: new(logrus.TextFormatter),
-				Hooks:     make(logrus.LevelHooks),
-				Level:     logrus.DebugLevel,
-			},
+			logger,
 			i.Conf,
 		},
 	}

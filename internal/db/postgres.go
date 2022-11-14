@@ -23,7 +23,7 @@ func (h *QueryHook) BeforeQuery(ctx context.Context, event *bun.QueryEvent) cont
 
 //goland:noinspection ALL
 func (h *QueryHook) AfterQuery(ctx context.Context, event *bun.QueryEvent) {
-	h.log.Debugf("%v %v", time.Since(event.StartTime), event.Query)
+	h.log.Infof(" %v %v", time.Since(event.StartTime), event.Query)
 	err := event.Err
 	if err != nil {
 		h.log.Error("err:- ", err)
@@ -50,12 +50,11 @@ func newPostgressDB(database *DB) (db *bun.DB) {
 		}
 		log.Info("successfully pinged the DB")
 		db = bun.NewDB(sqlDB, pgdialect.New(), bun.WithDiscardUnknownColumns())
-		return
 	} else {
 		panic(fmt.Sprintf("Failed to connect to the sqlDB: %s\n", err.Error()))
 	}
 
-	if conf.GetString(enums.MODE) == "development" {
+	if conf.GetString(enums.MODE) == enums.DEVELOPMENT {
 		db.AddQueryHook(&QueryHook{&database.Log})
 	}
 	_, err := db.Exec(fmt.Sprintf("set timezone to '%s'", conf.GetString(enums.TIMEZONE)))
