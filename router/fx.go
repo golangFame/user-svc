@@ -32,6 +32,7 @@ func newService(
 ) *service {
 	return &service{
 		dummyHandler: h.DummyHandler,
+		appHandler:   h.AppHandler,
 		conf:         conf,
 	}
 }

@@ -15,4 +15,7 @@ func (s *service) RoutesWithNoAuth(r *gin.RouterGroup, mws ...Middleware) {
 
 	r.POST("/dummy", s.dummyHandler.Dummy)
 
+	appRouter := r.Group("/app")
+	appRouter.GET("/", s.appHandler.Home)
+
 }

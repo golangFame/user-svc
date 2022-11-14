@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"github.com/BzingaApp/user-svc/entities"
 	"github.com/BzingaApp/user-svc/er"
+	"github.com/BzingaApp/user-svc/services/app"
 	"github.com/BzingaApp/user-svc/services/dummy"
 	"github.com/BzingaApp/user-svc/utils"
 	"github.com/gin-gonic/gin"
@@ -21,12 +22,19 @@ type Handler struct {
 }
 
 type DummyHandler struct {
-	dummyServices dummy.Services
 	Handler
+
+	dummyServices dummy.Services
 }
 
 type HomeHandler struct {
 	Handler
+}
+
+type AppHandler struct {
+	Handler
+
+	appServices app.Services
 }
 
 func Bind(c *gin.Context, req interface{}) (statusCode int, err error) {

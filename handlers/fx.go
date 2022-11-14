@@ -1,6 +1,7 @@
 package handlers
 
 import (
+	"github.com/BzingaApp/user-svc/services/app"
 	"github.com/BzingaApp/user-svc/services/dummy"
 	"github.com/sirupsen/logrus"
 	"os"
@@ -18,6 +19,7 @@ var Module = fx.Options(
 type Handlers struct {
 	*HomeHandler
 	*DummyHandler
+	*AppHandler
 }
 
 type In struct {
@@ -25,6 +27,7 @@ type In struct {
 
 	Conf          *viper.Viper
 	DummyServices dummy.Services
+	AppServices   app.Services
 }
 
 type Out struct {
@@ -50,8 +53,12 @@ func New(i In) (o Out) {
 				Handler,
 			},
 			&DummyHandler{
-				dummyServices: i.DummyServices,
-				Handler:       Handler,
+				Handler,
+				i.DummyServices,
+			},
+			&AppHandler{
+				Handler,
+				i.AppServices,
 			},
 		},
 	}

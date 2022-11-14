@@ -17,6 +17,7 @@ type service struct {
 	middlewares  *middlewares.Middleware
 	homeHandler  *handlers.HomeHandler
 	dummyHandler *handlers.DummyHandler
+	appHandler   *handlers.AppHandler
 }
 
 type Middleware func() gin.HandlerFunc
