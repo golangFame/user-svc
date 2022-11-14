@@ -25,6 +25,10 @@ var confList = map[string]argvMeta{
 		"app listen port",
 		"1604",
 	},
+	enums.POSTGRESQL_DB_URL: {
+		"db url ",
+		"postgres://nashaath.mohamed@bzinga.com:Nashaath@bz-dev-db-pvt-pgsql-central-india-1.postgres.database.azure.com:5432/bz_pg_dev",
+	},
 	enums.POSTGRESQL_DB: {
 		"postgresql db name",
 		"bz_pg_dev",
@@ -52,5 +56,21 @@ var confList = map[string]argvMeta{
 	enums.TIMEZONE: {
 		"timezone to be used",
 		"Asia/Calcutta",
+	},
+	enums.SSH_HOST: {
+		"bastion host",
+		"20.219.153.186",
+	},
+	enums.SSH_USER: {
+		"bastion host username",
+		"nashaath.mohamed",
+	},
+	enums.SSH_PORT: {
+		"bastion host ssh port",
+		"22",
+	},
+	enums.SSH_PRIVATE_KEY_FILE_PATH: {
+		"ssh private key location",
+		"c:/users/Hiro/.ssh/github.com-hiroBzinga",
 	},
 }
