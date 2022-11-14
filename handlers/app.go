@@ -5,6 +5,7 @@ import (
 	"github.com/BzingaApp/user-svc/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
+	"net/http"
 )
 
 func (h *AppHandler) Home(c *gin.Context) {
@@ -32,5 +33,14 @@ func (h *AppHandler) HomePage(c *gin.Context) {
 	if userID == 0 {
 		err = errors.New("invalid user")
 	}
+
+	h.appServices.HomePage()
+
+	//user points
+
+	c.JSON(http.StatusOK, gin.H{
+		"hasBids": false, //FIXME connect with Sammy
+
+	})
 
 }
