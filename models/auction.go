@@ -27,10 +27,9 @@ type AuctionProducts struct {
 	StartTime time.Time `bun:"start_time"`
 	EndTime   time.Time
 
-	CreatedAt time.Time `bun:"created_at"`
-	UpdatedAt time.Time `bun:"updated_at"`
-
-	DeletedAt time.Time `bun:"deleted_at"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
 
 	//Auction *Auctions `rel:"belongs-to"`
 }
@@ -42,10 +41,9 @@ type AuctionTypes struct {
 
 	Name string `bun:"name"`
 
-	CreatedAt time.Time `bun:"created_at"`
-	UpdatedAt time.Time `bun:"updated_at"`
-
-	DeletedAt time.Time `bun:"deleted_at"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
 }
 
 type Auctions struct {
@@ -71,10 +69,9 @@ type Auctions struct {
 
 	AuctionTypeID int `bun:"auction_type_id"`
 
-	CreatedAt time.Time `bun:"created_at"`
-	UpdatedAt time.Time `bun:"updated_at"`
-
-	DeletedAt time.Time `bun:"deleted_at"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
 
 	Products *[]AuctionProducts `bun:"rel:has-many,join:id=auction_id"`
 

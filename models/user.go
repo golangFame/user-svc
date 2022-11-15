@@ -30,7 +30,6 @@ type User struct {
 
 	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
 	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-
 	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
 
 	UserPoints *UserPoint `bun:"rel:has-one,join:id=app_user_id"`
@@ -44,10 +43,9 @@ type UserPoint struct {
 	UserID uint `bun:"app_user_id"`
 	Points uint
 
-	CreatedAt time.Time `bun:"created_at"`
-	UpdatedAt time.Time `bun:"updated_at"`
-
-	DeletedAt time.Time `bun:"deleted_at"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
 
 	User *User `bun:"rel:belongs-to,join:app_user_id=id"`
 }

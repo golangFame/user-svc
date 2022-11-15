@@ -18,10 +18,9 @@ type AppProperties struct {
 
 	FieldType string
 
-	CreatedAt time.Time `bun:"created_at"`
-	UpdatedAt time.Time `bun:"updated_at"`
-
-	DeletedAt time.Time `bun:"deleted_at"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
 }
 
 func (a *AppProperties) Fetch(db *bun.DB, ctx context.Context) (err error) {
