@@ -37,7 +37,7 @@ func newRedis(cache *cache) Services {
 	conf := cache.Conf
 	return &redisStore{
 		pool: &redis.Pool{
-			MaxActive: 5,
+			MaxActive: 50,
 			MaxIdle:   5,
 			Wait:      true,
 			Dial: func() (redis.Conn, error) {

@@ -8,7 +8,6 @@ import (
 )
 
 type Services interface {
-	getSpotTimer() (seconds int)
 	AuctionProductsNow() (auctions []models.Auctions)
 }
 
@@ -45,20 +44,10 @@ func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
 
 	utils.ConvertJSONToGoType(json.RawMessage(appPropertyActiveAuctions.Value), &orderAuctionTypes)
 
+	//var auctionsCur [orderAuctionTypes]models.Auctions //map is not getting stuffs in order
+
 	for _, val := range orderAuctionTypes {
-		//get the auction type id
-		/*
-			auctionType := models.AuctionTypes{
-				Name:val,
-			}
 
-			auctionType.Fetch(db, ctx)
-			if auctionType.ID==0{
-				s.Log.Error("invalid auction type name ",val)
-				continue
-			}
-
-		*/
 		auction := models.Auctions{
 			Name: val,
 		}
@@ -72,15 +61,17 @@ func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
 			AuctionID: auction.ID,
 		}
 
-		var err error
-
-		auction.Products, err = auctionProducts.FetchAll(db, ctx)
+		auctionProds, err := auctionProducts.FetchAll(db, ctx)
 
 		if err != nil {
 			s.Log.Error("failed to retrieve auction products for ", val)
+		} else {
+			auction.Products = &auctionProds
+			//auction.Products = make([]models.AuctionProducts)
 		}
 
 		auctions = append(auctions, auction)
+		break
 
 	}
 

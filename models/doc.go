@@ -23,4 +23,30 @@ package models
 
 //Use returning even in insert to get fields of default-id,created_at etc..
 
+//pointers are not scanned by bun by default instead use relation() to scan for *p
+//
 //Relation(name) is just an alias for new coming table
+
+/*
+
+
+
+has-one
+belongs-to
+has-many
+polymorphic-has-many
+many-to-many
+
+	Author	 Author `bun:"rel:belongs-to,join:author_id=id"`
+
+
+# Arrays
+
+https://bun.uptrace.dev/postgres/postgres-arrays.html
+
+https://github.com/oiime/logrusbun
+
+
+
+
+*/

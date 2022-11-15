@@ -7,7 +7,7 @@ import (
 )
 
 type AppProperties struct {
-	bun.BaseModel `bun:"table:auction_products"`
+	bun.BaseModel `bun:"table:app_properties"`
 
 	ID int `bun:"id,pk,autoincrement"`
 

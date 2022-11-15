@@ -22,7 +22,7 @@ type AuctionProducts struct {
 	StockUnits       int     `bun:"stock_units"`
 
 	ConsolationStock   int
-	IsMultiBidsEnabled bool
+	IsMultiBidsEnabled bool `bun:"is_multibids_enabled"`
 
 	StartTime time.Time `bun:"start_time"`
 	EndTime   time.Time
@@ -32,7 +32,7 @@ type AuctionProducts struct {
 
 	DeletedAt time.Time `bun:"deleted_at"`
 
-	Auction *Auctions `rel:"belongs-to"`
+	//Auction *Auctions `rel:"belongs-to"`
 }
 
 type AuctionTypes struct {
@@ -64,7 +64,7 @@ type Auctions struct {
 	ShouldShowAvatars  bool
 	Image              string
 	LayoutNumber       uint
-	AppUserGroupID     int
+	AppUserGroupID     []int `bun:"app_user_group_id,array"`
 	Color              string
 	ShowMrp            bool
 	IsMultibidsEnabled bool
@@ -76,7 +76,9 @@ type Auctions struct {
 
 	DeletedAt time.Time `bun:"deleted_at"`
 
-	Products []*AuctionProducts `bun:"rel:has-many,join:id=auction_id"`
+	Products *[]AuctionProducts `bun:"rel:has-many,join:id=auction_id"`
+
+	AuctionProducts []AuctionProducts `bun:"-"`
 }
 
 func (a *AuctionTypes) Fetch(db *bun.DB, ctx context.Context) (err error) {
@@ -113,8 +115,8 @@ func (a *AuctionProducts) Fetch(db *bun.DB, ctx context.Context) (err error) {
 	return
 }
 
-func (a *AuctionProducts) FetchAll(db *bun.DB, ctx context.Context) (auctionProducts []*AuctionProducts, err error) {
-	query := db.NewSelect().Model(auctionProducts)
+func (a *AuctionProducts) FetchAll(db *bun.DB, ctx context.Context) (auctionProducts []AuctionProducts, err error) {
+	query := db.NewSelect().Model(&auctionProducts)
 
 	if a.StartTime.IsZero() {
 		a.StartTime = time.Now()
