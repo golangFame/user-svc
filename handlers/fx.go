@@ -22,7 +22,7 @@ type Handlers struct {
 	*AppHandler
 }
 
-type In struct {
+type in struct {
 	fx.In
 
 	Conf          *viper.Viper
@@ -30,12 +30,12 @@ type In struct {
 	AppServices   app.Services
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 	*Handlers
 }
 
-func New(i In) (o Out) {
+func New(i in) (o out) {
 
 	Handler := Handler{
 		i.Conf,
@@ -47,7 +47,7 @@ func New(i In) (o Out) {
 		},
 	}
 
-	o = Out{
+	o = out{
 		Handlers: &Handlers{
 			&HomeHandler{
 				Handler,

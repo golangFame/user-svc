@@ -14,18 +14,18 @@ var Module = fx.Options(
 	),
 )
 
-type In struct {
+type in struct {
 	fx.In
 	Conf *viper.Viper
 	DB   *bun.DB `name:"db"`
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 	*Middleware
 }
 
-func New(i In) (o Out) {
+func New(i in) (o out) {
 	m := &Middleware{
 		&logrus.Logger{
 			Out:       os.Stderr,
@@ -36,7 +36,7 @@ func New(i In) (o Out) {
 		i.DB,
 		i.Conf,
 	}
-	o = Out{
+	o = out{
 		Middleware: m,
 	}
 	return

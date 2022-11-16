@@ -20,7 +20,7 @@ var Module = fx.Options(
 	fx.Provide(initLogrus),
 )
 
-type In struct {
+type in struct {
 	fx.In
 	Conf           *viper.Viper
 	Middlewares    *middlewares.Middleware
@@ -28,13 +28,13 @@ type In struct {
 	DB             *bun.DB `name:"db"`
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 
 	Log *logrus.Logger
 }
 
-func run(i In) {
+func run(i in) {
 	addr := "0.0.0.0"
 	server := &Server{
 		i.Middlewares,

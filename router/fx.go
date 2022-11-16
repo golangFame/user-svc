@@ -13,7 +13,7 @@ var Module = fx.Options(
 	),
 )
 
-type In struct {
+type in struct {
 	fx.In
 
 	Conf *viper.Viper
@@ -21,7 +21,7 @@ type In struct {
 	Handlers *handlers.Handlers
 }
 
-func newServices(i In) (Services Services) {
+func newServices(i in) (Services Services) {
 	h := i.Handlers
 	return newService(i.Conf, h)
 }

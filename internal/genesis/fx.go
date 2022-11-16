@@ -13,17 +13,17 @@ var Module = fx.Options(
 	),
 )
 
-type In struct {
+type in struct {
 	fx.In
 	Conf *viper.Viper
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 	*Service
 }
 
-func New(i In) (o Out) {
+func New(i in) (o out) {
 
 	logger := logrus.Logger{
 		Out:       os.Stderr,
@@ -34,7 +34,7 @@ func New(i In) (o Out) {
 
 	logger.SetReportCaller(true)
 
-	o = Out{
+	o = out{
 		Service: &Service{
 			logger,
 			i.Conf,

@@ -17,7 +17,7 @@ func (s *service) getSpotTimer() (seconds int) {
 		Key:       "spotTimer",
 		GroupName: "home",
 	}
-	appPropertySpotTimer.Fetch(s.DB, context.TODO())
+	appPropertySpotTimer.Fetch(s.db, context.TODO())
 
 	seconds = utils.ConvertStringIntoInt(appPropertySpotTimer.Value)
 
@@ -30,7 +30,7 @@ func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
 
 	ctx := context.TODO()
 
-	db := s.DB
+	db := s.db
 
 	appPropertyActiveAuctions := models.AppProperties{
 		ID:        39,

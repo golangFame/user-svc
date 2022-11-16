@@ -12,22 +12,22 @@ var Module = fx.Options(
 		newServices,
 	))
 
-type In struct {
+type in struct {
 	fx.In
 
 	*genesis.Service
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 	Services
 }
 
-func newServices(i In) (o Out) {
+func newServices(i in) (o out) {
 	cache := &cache{
 		i.Service,
 	}
-	o = Out{
+	o = out{
 		Services: newRedis(cache),
 	}
 	return

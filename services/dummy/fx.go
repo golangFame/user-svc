@@ -11,19 +11,19 @@ var Module = fx.Options(
 	),
 )
 
-type In struct {
+type in struct {
 	fx.In
 	*genesis.Service
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 
 	Dummy Services // `name:"dummy"`
 }
 
-func newServices(i In) (o Out) {
-	o = Out{
+func newServices(i in) (o out) {
+	o = out{
 		Dummy: newDummy(i.Service),
 	}
 	return

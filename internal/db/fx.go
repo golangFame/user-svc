@@ -12,22 +12,22 @@ var Module = fx.Options(
 	),
 )
 
-type In struct {
+type in struct {
 	fx.In
 	Service *genesis.Service
 }
 
-type Out struct {
+type out struct {
 	fx.Out
 
 	DB1 *bun.DB `name:"db"`
 }
 
-func newDBS(i In) (o Out) {
+func newDBS(i in) (o out) {
 	database := &DB{
 		i.Service,
 	}
-	o = Out{
+	o = out{
 		DB1: newPostgressDB(database),
 	}
 	return
