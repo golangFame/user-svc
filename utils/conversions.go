@@ -17,7 +17,7 @@ func ConvertStringIntoFloat(numeric string) float64 {
 }
 
 // ConvertNumericIntoString ... convert numeric(integer,float) into string.
-func ConvertNumericIntoString(number interface{}) string {
+func ConvertNumericIntoString[constraint int | int64 | float64](number interface{}) string {
 	switch number.(type) {
 	case int:
 		return strconv.Itoa(number.(int))

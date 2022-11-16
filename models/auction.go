@@ -2,7 +2,6 @@ package models
 
 import (
 	"context"
-	"database/sql"
 	log "github.com/sirupsen/logrus"
 	"github.com/uptrace/bun"
 	"time"
@@ -27,9 +26,9 @@ type AuctionProducts struct {
 	StartTime time.Time `bun:"start_time"`
 	EndTime   time.Time
 
-	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
-	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 
 	//Auction *Auctions `rel:"belongs-to"`
 }
@@ -39,11 +38,11 @@ type AuctionTypes struct {
 
 	ID int `bun:"id,pk,autoincrement"`
 
-	Name string `bun:"name"`
+	Name string `bun:"name" json:"name"`
 
-	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
-	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 }
 
 type Auctions struct {
@@ -51,31 +50,44 @@ type Auctions struct {
 
 	ID int `bun:"id,pk,autoincrement"`
 
-	Name               string `bun:"name"`
-	MinPoints          uint
-	Subtitle           string
-	AdditionalText     sql.NullString
-	AdditionalIcon     sql.NullString
-	TitleIcon          sql.NullString
+	Name               string `bun:"name" json:"name"`
+	MinPoints          int
+	AdditionalText     string   `json:"additionalText,omitempty"`
+	AdditionalIcon     string   `json:"additionalIcon,omitempty"`
+	Subtitle           string   `json:"subtitle,omitempty"`
+	LayoutID           int      `json:"layoutId"`
+	TitleIcon          string   `json:"titleIcon,omitempty"`
+	Avatars            []string `json:"avatars,omitempty"`
 	StartsAt           time.Time
-	ExpiresAt          sql.NullTime
+	ExpiresAt          time.Time
 	ShouldShowAvatars  bool
 	Image              string
-	LayoutNumber       uint
+	LayoutNumber       int   `bun:"layout_id"` //FIXME check why this is working without the tag
 	AppUserGroupID     []int `bun:"app_user_group_id,array"`
 	Color              string
 	ShowMrp            bool
 	IsMultibidsEnabled bool
 
-	AuctionTypeID int `bun:"auction_type_id"`
+	AuctionTypeID int `bun:"auction_type_id" json:"auctionTypeID"`
 
-	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
-	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 
-	Products *[]AuctionProducts `bun:"rel:has-many,join:id=auction_id"`
+	Products *[]AuctionProducts `bun:"rel:has-many,join:id=auction_id" json:"products,omitempty""`
 
-	AuctionProducts []AuctionProducts `bun:"-"`
+	HasUserAccess bool `json:"hasUserAccess"`
+}
+
+func (a *Auctions) SetUserAccess(userPoints int) {
+	var flag bool
+	if a.MinPoints > 0 && a.MinPoints > userPoints {
+		flag = false
+	} else {
+		flag = true
+	}
+	a.HasUserAccess = flag
+	return
 }
 
 func (a *AuctionTypes) Fetch(db *bun.DB, ctx context.Context) (err error) {

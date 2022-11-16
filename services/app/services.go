@@ -27,10 +27,15 @@ func (s *service) getSpotTimer() (seconds int) {
 func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
 
 	//implement active auctions types
-
 	ctx := context.TODO()
 
 	db := s.db
+
+	userID := 14
+
+	_userPoint := models.UserPoint{UserID: userID}
+
+	_userPoint.Fetch(db, ctx)
 
 	appPropertyActiveAuctions := models.AppProperties{
 		ID:        39,
@@ -52,6 +57,8 @@ func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
 			Name: val,
 		}
 		auction.Fetch(db, ctx)
+
+		auction.SetUserAccess(_userPoint.Points)
 
 		if auction.ID == 0 {
 			s.Log.Error("invalid auction -", val)

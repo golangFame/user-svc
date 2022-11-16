@@ -28,9 +28,9 @@ type User struct {
 	OTPGenerateAttempts int
 	UserGroupID         []int `bun:"user_group_id,array"`
 
-	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
-	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 
 	UserPoints *UserPoint `bun:"rel:has-one,join:id=app_user_id"`
 }
@@ -40,12 +40,12 @@ type UserPoint struct {
 
 	ID int `bun:"id,pk,autoincrement"`
 
-	UserID uint `bun:"app_user_id"`
-	Points uint
+	UserID int `bun:"app_user_id"`
+	Points int
 
-	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
-	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 
 	User *User `bun:"rel:belongs-to,join:app_user_id=id"`
 }

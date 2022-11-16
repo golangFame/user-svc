@@ -18,9 +18,9 @@ type AppProperties struct {
 
 	FieldType string
 
-	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp"`
-	UpdatedAt time.Time `bun:"updated_at,nullzero"`
-	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete"`
+	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
+	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
+	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 }
 
 func (a *AppProperties) Fetch(db *bun.DB, ctx context.Context) (err error) {
