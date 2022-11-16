@@ -12,25 +12,29 @@ type AuctionProducts struct {
 
 	ID int `bun:"id,pk,autoincrement"`
 
-	ProductID        int     `bun:"product_id"`
-	AuctionID        int     `bun:"auction_id"`
-	MinBidPrice      float32 `bun:"min_bid_price"`
+	ProductID        int     `bun:"product_id" json:"productId"`
+	AuctionID        int     `bun:"auction_id" json:"auctionId"`
+	MinBidPrice      float64 `bun:"min_bid_price" json:"minBidPrice"`
 	MinBidTickets    int     `bun:"min_bid_tickets"`
 	MinStatusTickets int     `bun:"min_status_tickets"`
-	MinPoints        int     `bun:"min_points"`
-	StockUnits       int     `bun:"stock_units"`
+	MinPoints        int     `bun:"min_points" json:"minPoints,omitempty"`
+	Code             string  `bun:"code" json:"code,omitempty"`
+	StockUnits       int     `bun:"stock_units" json:"-"`
+	ConsolationStock int     `bun:"consolation_stock" json:"-"`
 
-	ConsolationStock   int
 	IsMultiBidsEnabled bool `bun:"is_multibids_enabled"`
 
-	StartTime time.Time `bun:"start_time"`
-	EndTime   time.Time
+	StartTime time.Time `bun:"start_time" json:"startTime,omitempty"`
+	EndTime   time.Time `bun:"end_time" json:"endTime,omitempty"`
 
 	CreatedAt time.Time `bun:"created_at,nullzero,default:current_timestamp" json:"createdAt,omitempty"`
 	UpdatedAt time.Time `bun:"updated_at,nullzero" json:"updatedAt,omitempty"`
 	DeletedAt time.Time `bun:"deleted_at,nullzero,soft_delete" json:"deletedAt,omitempty"`
 
 	//Auction *Auctions `rel:"belongs-to"`
+
+	//WinningBid         *WinningBid `json:"winningBid,omitempty"`
+	//UserBids           []*Bid     `json:"userBids"`
 }
 
 type AuctionTypes struct {
@@ -52,14 +56,10 @@ type Auctions struct {
 
 	Name               string `bun:"name" json:"name"`
 	MinPoints          int
-	AdditionalText     string   `json:"additionalText,omitempty"`
-	AdditionalIcon     string   `json:"additionalIcon,omitempty"`
-	Subtitle           string   `json:"subtitle,omitempty"`
-	LayoutID           int      `json:"layoutId"`
-	TitleIcon          string   `json:"titleIcon,omitempty"`
-	Avatars            []string `json:"avatars,omitempty"`
-	StartsAt           time.Time
-	ExpiresAt          time.Time
+	AdditionalText     string `json:"additionalText,omitempty"`
+	AdditionalIcon     string `json:"additionalIcon,omitempty"`
+	Subtitle           string `json:"subtitle,omitempty"`
+	LayoutID           int    `json:"layoutId"`
 	ShouldShowAvatars  bool
 	Image              string
 	LayoutNumber       int   `bun:"layout_id"` //FIXME check why this is working without the tag
@@ -67,6 +67,9 @@ type Auctions struct {
 	Color              string
 	ShowMrp            bool
 	IsMultibidsEnabled bool
+
+	StartsAt  time.Time `bun:"starts_at" json:"startsAt,omitempty"`
+	ExpiresAt time.Time `bun:"expires_at" json:"expiresAt"`
 
 	AuctionTypeID int `bun:"auction_type_id" json:"auctionTypeID"`
 
@@ -76,7 +79,7 @@ type Auctions struct {
 
 	Products *[]AuctionProducts `bun:"rel:has-many,join:id=auction_id" json:"products,omitempty""`
 
-	HasUserAccess bool `json:"hasUserAccess"`
+	HasUserAccess bool `json:"hasUserAccess" bun:"-"`
 }
 
 func (a *Auctions) SetUserAccess(userPoints int) {
@@ -175,4 +178,8 @@ func (a *Auctions) FetchAll(db *bun.DB, ctx context.Context) (auctions []Auction
 
 	err = query.Scan(ctx)
 	return
+}
+
+func (a *AuctionProducts) GetUserAccess(userPoints int) bool {
+	return !(a.MinPoints > 0 && a.MinPoints > userPoints)
 }

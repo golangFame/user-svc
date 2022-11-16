@@ -3,12 +3,13 @@ package app
 import (
 	"context"
 	"encoding/json"
+	"github.com/BzingaApp/user-svc/entities"
 	"github.com/BzingaApp/user-svc/models"
 	"github.com/BzingaApp/user-svc/utils"
 )
 
 type Services interface {
-	AuctionProductsNow() (auctions []models.Auctions)
+	AuctionProductsNow() (auctions []entities.Auctions)
 }
 
 func (s *service) getSpotTimer() (seconds int) {
@@ -24,14 +25,14 @@ func (s *service) getSpotTimer() (seconds int) {
 	return
 }
 
-func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
+func (s *service) AuctionProductsNow() (auctions []entities.Auctions) {
 
 	//implement active auctions types
 	ctx := context.TODO()
 
 	db := s.db
 
-	userID := 14
+	userID := 16042003
 
 	_userPoint := models.UserPoint{UserID: userID}
 
@@ -53,34 +54,78 @@ func (s *service) AuctionProductsNow() (auctions []models.Auctions) {
 
 	for _, val := range orderAuctionTypes {
 
-		auction := models.Auctions{
+		_auction := models.Auctions{
 			Name: val,
 		}
-		auction.Fetch(db, ctx)
+		_auction.Fetch(db, ctx)
 
-		auction.SetUserAccess(_userPoint.Points)
+		_auction.SetUserAccess(_userPoint.Points)
 
-		if auction.ID == 0 {
-			s.Log.Error("invalid auction -", val)
+		if _auction.ID == 0 {
+			s.Log.Error("invalid _auction -", val)
 			continue
 		}
 		auctionProducts := models.AuctionProducts{
-			AuctionID: auction.ID,
+			AuctionID: _auction.ID,
 		}
 
 		auctionProds, err := auctionProducts.FetchAll(db, ctx)
 
 		if err != nil {
-			s.Log.Error("failed to retrieve auction products for ", val)
-		} else {
-			auction.Products = &auctionProds
-			//auction.Products = make([]models.AuctionProducts)
+			s.Log.Error("failed to retrieve _auction products for ", val)
+			continue
 		}
 
-		auctions = append(auctions, auction)
-		break
+		var prodRes []entities.AuctionProducts
 
+		for _, _auctionProduct := range auctionProds {
+			_product := models.Product{
+				ID: auctionProducts.ProductID,
+			}
+			db.NewSelect().Model(&_product).
+				Relation("Images").
+				Relation("Currency").
+				Relation("Category").
+				WherePK() //TODO is joins a good time??
+
+			prodRes = append(prodRes, entities.AuctionProducts{
+				_product.Name,
+				_product.ID,
+				_product.Currency.Symbol,
+				_auctionProduct.MinBidPrice,
+				_product.Msrp,
+				0, // episode_product 's round number
+				_product.ExtractLinks(),
+				_auction.ExpiresAt, //FIXME Kritika: not sure
+				true,               //FIXME
+				string(_product.CategoryID),
+				_auction.ID,
+				0, //FIXME episodeID
+				_product.Description,
+				_product.CompanyImage,
+				false, //FIXME get isLive
+				_auctionProduct.GetUserAccess(_userPoint.Points),
+				_auction.MinPoints, //FIXME
+				[]string{},         //fixme
+				"",                 //fixme
+				true,               //fixme
+				true,               //fixme
+				true,               //fixme
+				12,                 //total bids
+				true,               //fixme
+				0,                  //fixme auction_service ....
+				"",                 //fixme
+				_auction.AuctionTypeID,
+				true, //fixme
+			})
+		}
+		if len(prodRes) > 0 {
+			auctions = append(auctions, entities.Auctions{
+				_auction,
+				prodRes,
+			})
+
+		}
 	}
-
 	return
 }

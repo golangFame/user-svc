@@ -24,10 +24,12 @@ func (h *QueryHook) BeforeQuery(ctx context.Context, event *bun.QueryEvent) cont
 
 //goland:noinspection ALL
 func (h *QueryHook) AfterQuery(ctx context.Context, event *bun.QueryEvent) {
-	h.log.Infof(" %v %v", time.Since(event.StartTime), event.Query)
+	//h.log.Infof(" %v %v", time.Since(event.StartTime), event.Query) //FIXME doesn't look nice
+	fmt.Printf("[BUN]%v %v\n", time.Since(event.StartTime), event.Query)
 	err := event.Err
 	if err != nil {
-		h.log.Error("err:- ", err)
+		h.log.Errorln("query failed")
+		h.log.Errorln(err)
 	}
 }
 

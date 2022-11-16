@@ -16,7 +16,7 @@ type User struct {
 	Avatar              string
 	EncryptedPin        string
 	Email               string
-	Phone               int64
+	Phone               int
 	CountryCode         int
 	AddressLine         string
 	State               string
